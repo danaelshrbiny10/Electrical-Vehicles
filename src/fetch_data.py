@@ -31,8 +31,9 @@ DATA_RAW_DIR = Path("data/raw")
 logging.basicConfig(
     level=logging.INFO,
     format="[%(asctime)s] %(levelname)s: %(message)s",
-    datefmt="%Y-%m-%d %H:%M:%S"
+    datefmt="%Y-%m-%d %H:%M:%S",
 )
+
 
 # ------------------------------------------------------------
 # Fetch data from API
@@ -41,25 +42,26 @@ def fetch_openchargemap_data() -> pd.DataFrame:
     """Fetch and structure charging station data from OpenChargeMap API."""
     if not API_KEY:
         logging.error(ResponseSignal.ENV_MISSING.value)
-        raise EnvironmentError("OPENCHARGEMAP_API_KEY not found in environment variables.")
+        raise EnvironmentError(
+            "OPENCHARGEMAP_API_KEY not found in environment variables."
+        )
 
     params = {
         "output": "json",
         "maxresults": MAX_RECORDS,
         "countrycode": COUNTRY_CODE,
-        "key": API_KEY
+        "key": API_KEY,
     }
 
-    headers = {
-        "X-API-Key": API_KEY,
-        "User-Agent": "ElectricVehiclesDataCollector/1.0"
-    }
+    headers = {"X-API-Key": API_KEY, "User-Agent": "ElectricVehiclesDataCollector/1.0"}
 
     logging.info(ResponseSignal.FETCHING.value)
     response = requests.get(API_URL, params=params, headers=headers)
 
     if response.status_code != 200:
-        logging.error(f"{ResponseSignal.API_ERROR.value}: {response.status_code} - {response.text}")
+        logging.error(
+            f"{ResponseSignal.API_ERROR.value}: {response.status_code} - {response.text}"
+        )
         raise Exception(f"API request failed with status code {response.status_code}")
 
     data = response.json()
@@ -71,19 +73,27 @@ def fetch_openchargemap_data() -> pd.DataFrame:
     records = []
     for d in data:
         addr = d.get("AddressInfo", {})
-        records.append({
-            "Station_ID": d.get("ID"),
-            "Station_Name": addr.get("Title"),
-            "Address": addr.get("AddressLine1"),
-            "City": addr.get("Town"),
-            "State/Province": addr.get("StateOrProvince"),
-            "Country": addr.get("Country", {}).get("Title") if addr.get("Country") else None,
-            "Lat": round(addr.get("Latitude"), 5) if addr.get("Latitude") else None,
-            "Lon": round(addr.get("Longitude"), 5) if addr.get("Longitude") else None,
-            "Cost": d.get("UsageCost"),
-            "Num_Connections": len(d.get("Connections", [])),
-            "Last_Updated": d.get("DateLastStatusUpdate")
-        })
+        records.append(
+            {
+                "Station_ID": d.get("ID"),
+                "Station_Name": addr.get("Title"),
+                "Address": addr.get("AddressLine1"),
+                "City": addr.get("Town"),
+                "State/Province": addr.get("StateOrProvince"),
+                "Country": (
+                    addr.get("Country", {}).get("Title")
+                    if addr.get("Country")
+                    else None
+                ),
+                "Lat": round(addr.get("Latitude"), 5) if addr.get("Latitude") else None,
+                "Lon": (
+                    round(addr.get("Longitude"), 5) if addr.get("Longitude") else None
+                ),
+                "Cost": d.get("UsageCost"),
+                "Num_Connections": len(d.get("Connections", [])),
+                "Last_Updated": d.get("DateLastStatusUpdate"),
+            }
+        )
 
     df = pd.DataFrame(records)
 
@@ -114,6 +124,7 @@ def main():
             logging.warning(ResponseSignal.NO_DATA.value)
     except Exception as e:
         logging.error(f"{ResponseSignal.UNKNOWN_ERROR.value}: {e}")
+
 
 if __name__ == "__main__":
     main()
