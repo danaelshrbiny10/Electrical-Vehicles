@@ -12,7 +12,7 @@ install:
 
 fetch-data:
 	@echo "⚡ Fetching EV charging station data from OpenChargeMap API..."
-	python3 src/API/fetch_data.py
+	python3 src/api/fetch_data.py
 
 clean:
 	@echo "🧹 Cleaning up raw data..."
