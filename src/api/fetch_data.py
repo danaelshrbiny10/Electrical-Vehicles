@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """
-Fetches electric vehicle charging station data from the OpenChargeMap API
-using pagination, and stores it locally as a clean CSV file.
-
-By default, fetches up to 50,000 records safely (lightweight mode).
-You can enable full-data mode (~1.2M+ records) by uncommenting the marked line below.
+Fetches all electric vehicle charging station data from the OpenChargeMap API
+(using unlimited pagination) for Egypt and saves the raw data as a CSV file.
 """
 
 import os
@@ -13,6 +10,7 @@ import pandas as pd
 import logging
 from pathlib import Path
 from dotenv import load_dotenv
+from time import sleep
 from ..models import ResponseSignal
 
 # ------------------------------------------------------------
@@ -24,11 +22,9 @@ load_dotenv()
 # Configuration
 # ------------------------------------------------------------
 API_URL = "https://api.openchargemap.io/v3/poi/"
-PAGE_SIZE = 10000  # Number of records per API page
-MAX_RECORDS = 50000
-COUNTRY_CODE = "ALL"
+PAGE_SIZE = 10000  # Max per API page
+COUNTRY_CODE = "EG"  # ISO code for Egypt
 API_KEY = os.getenv("OPENCHARGEMAP_API_KEY")
-
 DATA_RAW_DIR = Path("data/raw")
 
 # ------------------------------------------------------------
@@ -42,10 +38,10 @@ logging.basicConfig(
 
 
 # ------------------------------------------------------------
-# Fetch data with pagination
+# Fetch data
 # ------------------------------------------------------------
 def fetch_openchargemap_data() -> pd.DataFrame:
-    """Fetch and structure charging station data from OpenChargeMap API with pagination."""
+    """Fetch *all* raw charging station data for Egypt from OpenChargeMap API."""
     if not API_KEY:
         logging.error(ResponseSignal.ENV_MISSING.value)
         raise EnvironmentError(
@@ -54,14 +50,16 @@ def fetch_openchargemap_data() -> pd.DataFrame:
 
     headers = {
         "X-API-Key": API_KEY,
-        "User-Agent": "ElectricVehiclesDataCollector/1.0",
+        "User-Agent": "ElectricVehiclesDataCollector/Raw/1.0",
     }
 
     all_records = []
     offset = 0
+    total_fetched = 0
 
-    logging.info(ResponseSignal.FETCHING.value)
-    while offset < MAX_RECORDS:
+    logging.info(f"{ResponseSignal.FETCHING.value}: Starting data fetch for Egypt...")
+
+    while True:
         params = {
             "output": "json",
             "maxresults": PAGE_SIZE,
@@ -79,9 +77,10 @@ def fetch_openchargemap_data() -> pd.DataFrame:
 
         data = response.json()
         if not data:
-            logging.warning("No more data available from API.")
+            logging.info("✅ No more data available from API.")
             break
 
+        # Extract only relevant info without cleaning
         for d in data:
             addr = d.get("AddressInfo", {})
             all_records.append(
@@ -96,47 +95,36 @@ def fetch_openchargemap_data() -> pd.DataFrame:
                         if addr.get("Country")
                         else None
                     ),
-                    "Lat": (
-                        round(addr.get("Latitude"), 5) if addr.get("Latitude") else None
-                    ),
-                    "Lon": (
-                        round(addr.get("Longitude"), 5)
-                        if addr.get("Longitude")
-                        else None
-                    ),
+                    "Lat": addr.get("Latitude"),
+                    "Lon": addr.get("Longitude"),
                     "Cost": d.get("UsageCost"),
                     "Num_Connections": len(d.get("Connections", [])),
                     "Last_Updated": d.get("DateLastStatusUpdate"),
                 }
             )
 
+        batch_size = len(data)
+        total_fetched += batch_size
         offset += PAGE_SIZE
-        logging.info(f"Fetched {len(all_records)} records so far...")
 
-        if len(all_records) >= MAX_RECORDS:
-            logging.info("Reached maximum record limit.")
-            break
+        logging.info(f"Fetched {batch_size} new records → total: {total_fetched}")
+        sleep(1.5)  # avoid API rate limit
+
+        if batch_size < PAGE_SIZE:
+            break  # no more data to fetch
 
     df = pd.DataFrame(all_records)
-
-    # Convert and format date column
-    df["Last_Updated"] = pd.to_datetime(df["Last_Updated"], errors="coerce").dt.date
-
-    logging.info(f"{ResponseSignal.SUCCESS.value}: Retrieved {len(df)} total records.")
+    logging.info(f"✅ Total raw records fetched: {len(df)}")
     return df
 
 
-# ------------------------------------------------------------
-# Save data
-# ------------------------------------------------------------
 def save_data(df: pd.DataFrame):
-    """Save cleaned data to CSV inside data/raw directory."""
+    """Save raw EV data to CSV."""
     DATA_RAW_DIR.mkdir(parents=True, exist_ok=True)
-    csv_path = DATA_RAW_DIR / "ev_data.csv"
-
+    csv_path = DATA_RAW_DIR / "ev_data_egypt_raw.csv"
     df.to_csv(csv_path, index=False, encoding="utf-8-sig")
     logging.info(f"{ResponseSignal.SAVED_LOCAL.value} at {csv_path}")
-    print(f"Data successfully saved at: {csv_path}")
+    print(f"Raw data successfully saved at: {csv_path}")
 
 
 def main():
