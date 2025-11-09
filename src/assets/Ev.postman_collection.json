@@ -726,6 +726,278 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "model",
+			"item": [
+				{
+					"name": "simulation",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"start\": [30.0444, 31.2357],\n  \"end\": [30.0101, 31.2499],\n  \"car\": {\n    \"model_name\": \"Tesla_Model_3\",\n    \"battery_kwh\": 75,\n    \"efficiency_kwh_per_km\": 0.17,\n    \"max_charge_kw\": 150\n  },\n  \"start_soc\": 80,\n  \"target_arrival_soc\": 20\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/api/ev/simulate",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"api",
+								"ev",
+								"simulate"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "simulation example",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"start\": [30.0444, 31.2357],\n  \"end\": [30.0101, 31.2499],\n  \"car\": {\n    \"model_name\": \"Tesla_Model_3\",\n    \"battery_kwh\": 75,\n    \"efficiency_kwh_per_km\": 0.17,\n    \"max_charge_kw\": 150\n  },\n  \"start_soc\": 80,\n  \"target_arrival_soc\": 20\n}\n",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{url}}/api/ev/simulate",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"api",
+										"ev",
+										"simulate"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": null,
+							"header": [
+								{
+									"key": "date",
+									"value": "Sun, 09 Nov 2025 20:12:17 GMT"
+								},
+								{
+									"key": "server",
+									"value": "uvicorn"
+								},
+								{
+									"key": "content-length",
+									"value": "77"
+								},
+								{
+									"key": "content-type",
+									"value": "application/json"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"distance_km\": 4.1206722424864255,\n    \"energy_needed_kwh\": 0.7005142812226924,\n    \"battery_remaining_kwh\": 59.299485718777305,\n    \"battery_remaining_percent\": 79.06598095836974,\n    \"needs_charge\": false,\n    \"message\": \"Operation successful\"\n}"
+						}
+					]
+				},
+				{
+					"name": "charging curve",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"car\": {\n    \"model_name\": \"BYD_Atto3\",\n    \"battery_kwh\": 60,\n    \"efficiency_kwh_per_km\": 0.18,\n    \"max_charge_kw\": 50\n  },\n  \"station_power_kw\": 40,\n  \"soc_from_percent\": 20,\n  \"soc_to_percent\": 80\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/api/ev/charging_curve",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"api",
+								"ev",
+								"charging_curve"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "charging curve example",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"car\": {\n    \"model_name\": \"BYD_Atto3\",\n    \"battery_kwh\": 60,\n    \"efficiency_kwh_per_km\": 0.18,\n    \"max_charge_kw\": 50\n  },\n  \"station_power_kw\": 40,\n  \"soc_from_percent\": 20,\n  \"soc_to_percent\": 80\n}\n",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{url}}/api/ev/charging_curve",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"api",
+										"ev",
+										"charging_curve"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": null,
+							"header": [
+								{
+									"key": "date",
+									"value": "Sun, 09 Nov 2025 21:04:03 GMT"
+								},
+								{
+									"key": "server",
+									"value": "uvicorn"
+								},
+								{
+									"key": "content-length",
+									"value": "161"
+								},
+								{
+									"key": "content-type",
+									"value": "application/json"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"soc_from\": 20,\n    \"soc_to\": 80,\n    \"estimated_minutes\": 54,\n    \"curve_points\": [\n        20,\n        26,\n        32,\n        38,\n        44,\n        50,\n        56,\n        62,\n        68,\n        74,\n        80\n    ],\n    \"message\": \"Operation successful\"\n}"
+						}
+					]
+				},
+				{
+					"name": "battery status",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"car\": {\n    \"model_name\": \"BYD_Atto3\",\n    \"battery_kwh\": 60,\n    \"efficiency_kwh_per_km\": 0.18,\n    \"max_charge_kw\": 50\n  },\n  \"distance_km\": 120,\n  \"start_soc_pct\": 95\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/api/ev/battery_status",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"api",
+								"ev",
+								"battery_status"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "battery status example",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"car\": {\n    \"model_name\": \"BYD_Atto3\",\n    \"battery_kwh\": 60,\n    \"efficiency_kwh_per_km\": 0.18,\n    \"max_charge_kw\": 50\n  },\n  \"distance_km\": 120,\n  \"start_soc_pct\": 95\n}\n",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{url}}/api/ev/battery_status",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"api",
+										"ev",
+										"battery_status"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": null,
+							"header": [
+								{
+									"key": "date",
+									"value": "Sun, 09 Nov 2025 21:06:20 GMT"
+								},
+								{
+									"key": "server",
+									"value": "uvicorn"
+								},
+								{
+									"key": "content-length",
+									"value": "147"
+								},
+								{
+									"key": "content-type",
+									"value": "application/json"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"battery_remaining_kwh\": 35.400000000000006,\n    \"battery_remaining_percent\": 59.00000000000001,\n    \"energy_used_kwh\": 21.599999999999998,\n    \"message\": \"Success\"\n}"
+						}
+					]
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "url",
+			"value": ""
 		}
 	]
 }
