@@ -44,11 +44,23 @@ Start the application with Uvicorn after activating your virtual environment:
 $ uvicorn main:app --reload --host 0.0.0.0 --port 800
 ```
 
+Flags explained:
+
 - `--reload` enables automatic reloading on code changes (ideal for development).
 
 - `--host 0.0.0.0` makes the server accessible from your network.
 
 - `--port 800` runs the app on port 800.
+
+After running:
+
+- Open a browser and go to Swagger UI: `http://127.0.0.1:8000/docs`
+
+- You can test all endpoints (**/simulate**, **/battery_status**, **/charging_curve**, **/ai/predict/consumption**) directly.
+
+  - For structured documentation: `http://127.0.0.1:8000/redoc`
+
+- To fetch OpenAPI JSON for integration with Postman or other tools: `http://127.0.0.1:8000/openapi.json`
 
 You can also use the `Makefile` target if you added one:
 
@@ -63,55 +75,6 @@ You can test the API endpoints using the provided Postman collection.
 - Local file: [EV.postman_collection.json](./src/assets/Ev.postman_collection.json)
 
 - Shared workspace link:[EV API Collection](https://restless-space-444311.postman.co/workspace/EV~4de491a1-533e-4e0a-9e30-8d551cb31c2d/collection/13841690-c22ff165-7094-4196-a1a0-628ce8462ba4?action=share&source=copy-link&creator=13841690)
-
-## 📡 API Endpoints
-
-🔵 `POST /api/ev/simulate`
-
-Simulates EV travel between Point A → Point B
-
-**Input:**
-
-- start coordinates
-- end coordinates
-- car model parameters
-- battery state of charge
-
-**Output:**
-
-- estimated distance
-- energy consumed
-- remaining battery
-
-🔋 `POST /api/ev/charging-curve`
-
-Simulates charging curve using car energy + charger power profile.
-
-**Input:**
-
-- car battery properties
-- station kW power
-- SOC start / target
-
-**Output:**
-
-- estimated minutes
-- dynamic charging curve samples
-
-🔻 `POST /api/ev/battery-status`
-
-Predicts remaining battery after running a known distance.
-
-**Input:**
-
-- car model
-- distance
-- initial SOC
-
-**Output:**
-
-- battery left
-- energy consumed
 
 ## 📄 License
 
