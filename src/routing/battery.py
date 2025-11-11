@@ -1,16 +1,29 @@
-from models.car_model import CarInput
-from models.battery_status import BatteryResult
+from fastapi import APIRouter, HTTPException
+from models.battery import BatteryInput, BatteryResult
+from models.enums.ResponseEnums import ResponseSignal
 
-def compute_battery_after_distance(car: CarInput, distance_km: float, start_soc_pct: float) -> BatteryResult:
-    """
-    Compute battery remaining after traveling a given distance.
-    """
-    energy_used = distance_km * car.efficiency_kwh_per_km
-    battery_remaining_kwh = car.battery_kwh * (start_soc_pct/100) - energy_used
-    battery_remaining_pct = max(0.0, (battery_remaining_kwh / car.battery_kwh) * 100)
-    return BatteryResult(
-        battery_remaining_kwh=battery_remaining_kwh,
-        battery_remaining_percent=battery_remaining_pct,
-        energy_used_kwh=energy_used,
-        message="Success"
-    )
+router = APIRouter()
+
+
+@router.post(
+    "/battery_status",
+    response_model=BatteryResult,
+    summary="Compute battery status",
+    description="Returns remaining battery after a trip segment.",
+)
+def battery_status(req: BatteryInput):
+    try:
+        energy_used = req.car["efficiency_kwh_per_km"] * req.distance_km
+        battery_remaining = req.car["battery_kwh"] - energy_used
+        battery_remaining_pct = (battery_remaining / req.car["battery_kwh"]) * 100
+
+        return BatteryResult(
+            battery_remaining_kwh=battery_remaining,
+            battery_remaining_percent=battery_remaining_pct,
+            energy_used_kwh=energy_used,
+            message=ResponseSignal.SUCCESS.value,
+        )
+    except Exception as e:
+        raise HTTPException(
+            status_code=400, detail=f"{ResponseSignal.ERROR.value}: {e}"
+        )

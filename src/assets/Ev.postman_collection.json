@@ -737,7 +737,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"start\": [30.0444, 31.2357],\n  \"end\": [30.0101, 31.2499],\n  \"car\": {\n    \"model_name\": \"Tesla_Model_3\",\n    \"battery_kwh\": 75,\n    \"efficiency_kwh_per_km\": 0.17,\n    \"max_charge_kw\": 150\n  },\n  \"start_soc\": 80,\n  \"target_arrival_soc\": 20\n}\n",
+							"raw": "{\n    \"start\": [\n        30.0444,\n        31.2357\n    ],\n    \"end\": [\n        30.0101,\n        31.2499\n    ],\n    \"car\": {\n        \"model_name\": \"EV\",\n        \"battery_kwh\": 60,\n        \"efficiency_kwh_per_km\": 0.17,\n        \"max_charge_kw\": 150\n    },\n    \"start_soc\": 80,\n    \"target_arrival_soc\": 20\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -764,7 +764,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n  \"start\": [30.0444, 31.2357],\n  \"end\": [30.0101, 31.2499],\n  \"car\": {\n    \"model_name\": \"Tesla_Model_3\",\n    \"battery_kwh\": 75,\n    \"efficiency_kwh_per_km\": 0.17,\n    \"max_charge_kw\": 150\n  },\n  \"start_soc\": 80,\n  \"target_arrival_soc\": 20\n}\n",
+									"raw": "{\n    \"start\": [\n        30.0444,\n        31.2357\n    ],\n    \"end\": [\n        30.0101,\n        31.2499\n    ],\n    \"car\": {\n        \"model_name\": \"EV\",\n        \"battery_kwh\": 60,\n        \"efficiency_kwh_per_km\": 0.17,\n        \"max_charge_kw\": 150\n    },\n    \"start_soc\": 80,\n    \"target_arrival_soc\": 20\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -805,7 +805,7 @@
 								}
 							],
 							"cookie": [],
-							"body": "{\n    \"distance_km\": 4.1206722424864255,\n    \"energy_needed_kwh\": 0.7005142812226924,\n    \"battery_remaining_kwh\": 59.299485718777305,\n    \"battery_remaining_percent\": 79.06598095836974,\n    \"needs_charge\": false,\n    \"message\": \"Operation successful\"\n}"
+							"body": "{\n    \"distance_km\": 4.052,\n    \"energy_needed_kwh\": 0.0,\n    \"battery_remaining_kwh\": 48.0,\n    \"battery_remaining_percent\": 80.0,\n    \"needs_charge\": false,\n    \"message\": \"Operation successful\"\n}"
 						}
 					]
 				},
@@ -816,7 +816,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"car\": {\n    \"model_name\": \"BYD_Atto3\",\n    \"battery_kwh\": 60,\n    \"efficiency_kwh_per_km\": 0.18,\n    \"max_charge_kw\": 50\n  },\n  \"station_power_kw\": 40,\n  \"soc_from_percent\": 20,\n  \"soc_to_percent\": 80\n}\n",
+							"raw": "{\n    \"car\": {\n        \"battery_kwh\": 60,\n        \"max_charge_kw\": 50\n    },\n    \"station_power_kw\": 40,\n    \"soc_from_percent\": 20,\n    \"soc_to_percent\": 80\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -843,7 +843,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n  \"car\": {\n    \"model_name\": \"BYD_Atto3\",\n    \"battery_kwh\": 60,\n    \"efficiency_kwh_per_km\": 0.18,\n    \"max_charge_kw\": 50\n  },\n  \"station_power_kw\": 40,\n  \"soc_from_percent\": 20,\n  \"soc_to_percent\": 80\n}\n",
+									"raw": "{\n    \"car\": {\n        \"battery_kwh\": 60,\n        \"max_charge_kw\": 50\n    },\n    \"station_power_kw\": 40,\n    \"soc_from_percent\": 20,\n    \"soc_to_percent\": 80\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -884,7 +884,7 @@
 								}
 							],
 							"cookie": [],
-							"body": "{\n    \"soc_from\": 20,\n    \"soc_to\": 80,\n    \"estimated_minutes\": 54,\n    \"curve_points\": [\n        20,\n        26,\n        32,\n        38,\n        44,\n        50,\n        56,\n        62,\n        68,\n        74,\n        80\n    ],\n    \"message\": \"Operation successful\"\n}"
+							"body": "{\n    \"soc_from\": 20.0,\n    \"soc_to\": 80.0,\n    \"estimated_minutes\": 54.0,\n    \"curve_points\": [\n        20.0,\n        26.0,\n        32.0,\n        38.0,\n        44.0,\n        50.0,\n        56.0,\n        62.0,\n        68.0,\n        74.0,\n        80.0\n    ],\n    \"message\": \"Operation successful\"\n}"
 						}
 					]
 				},
@@ -895,7 +895,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"car\": {\n    \"model_name\": \"BYD_Atto3\",\n    \"battery_kwh\": 60,\n    \"efficiency_kwh_per_km\": 0.18,\n    \"max_charge_kw\": 50\n  },\n  \"distance_km\": 120,\n  \"start_soc_pct\": 95\n}\n",
+							"raw": "{\n    \"car\": {\n        \"battery_kwh\": 60,\n        \"efficiency_kwh_per_km\": 0.18\n    },\n    \"distance_km\": 120,\n    \"start_soc_pct\": 80\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -922,7 +922,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n  \"car\": {\n    \"model_name\": \"BYD_Atto3\",\n    \"battery_kwh\": 60,\n    \"efficiency_kwh_per_km\": 0.18,\n    \"max_charge_kw\": 50\n  },\n  \"distance_km\": 120,\n  \"start_soc_pct\": 95\n}\n",
+									"raw": "{\n    \"car\": {\n        \"battery_kwh\": 60,\n        \"efficiency_kwh_per_km\": 0.18\n    },\n    \"distance_km\": 120,\n    \"start_soc_pct\": 80\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -963,7 +963,90 @@
 								}
 							],
 							"cookie": [],
-							"body": "{\n    \"battery_remaining_kwh\": 35.400000000000006,\n    \"battery_remaining_percent\": 59.00000000000001,\n    \"energy_used_kwh\": 21.599999999999998,\n    \"message\": \"Success\"\n}"
+							"body": "{\n    \"battery_remaining_kwh\": 26.4,\n    \"battery_remaining_percent\": 44.0,\n    \"energy_used_kwh\": 21.6,\n    \"message\": \"Battery calculation successful\"\n}"
+						}
+					]
+				},
+				{
+					"name": "AI consumption",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"distance\": 120,\n    \"speed\": 90,\n    \"temp\": 30,\n    \"ac\": 1,\n    \"heater\": 0,\n    \"payload\": 150,\n    \"battery_kwh\": 60,\n    \"eff\": 0.17\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/api/ev/ai/predict/consumption",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"api",
+								"ev",
+								"ai",
+								"predict",
+								"consumption"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Ai Consumption example",
+							"originalRequest": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n    \"distance\": 120,\n    \"speed\": 90,\n    \"temp\": 30,\n    \"ac\": 1,\n    \"heater\": 0,\n    \"payload\": 150,\n    \"battery_kwh\": 60,\n    \"eff\": 0.17\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{url}}/api/ev/ai/predict/consumption",
+									"host": [
+										"{{url}}"
+									],
+									"path": [
+										"api",
+										"ev",
+										"ai",
+										"predict",
+										"consumption"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": null,
+							"header": [
+								{
+									"key": "date",
+									"value": "Tue, 11 Nov 2025 20:48:04 GMT"
+								},
+								{
+									"key": "server",
+									"value": "uvicorn"
+								},
+								{
+									"key": "content-length",
+									"value": "83"
+								},
+								{
+									"key": "content-type",
+									"value": "application/json"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"prediction_kwh\": 30.6,\n    \"message\": \"Estimated consumption for 120.0 km is 30.6 kWh.\"\n}"
 						}
 					]
 				}

@@ -1,34 +1,56 @@
-from fastapi import APIRouter, HTTPException
-from pydantic import BaseModel, Field
-from typing import List, Optional
-from models.car_model import CarInput
-from models.simulate_models import SimulateResponse
+from infer.manager import ModelManager
+import math
 from models.enums.ResponseEnums import ResponseSignal
-from routing.simulate import simulate_trip
 
-router = APIRouter()
-
-
-class SimulateRequest(BaseModel):
-    start: List[float] = Field(..., description="Start [lat, lon]")
-    end: List[float] = Field(..., description="End [lat, lon]")
-    car: CarInput
-    start_soc: float = Field(80.0, ge=0, le=100)
-    target_arrival_soc: float = Field(20.0, ge=0, le=100)
-    avg_speed_kmh: Optional[float] = Field(None)
+mgr = ModelManager()
 
 
-@router.post("/simulate", response_model=SimulateResponse)
-def simulate_route(req: SimulateRequest):
-    try:
-        result = simulate_trip(
-            start=tuple(req.start),
-            end=tuple(req.end),
-            car=req.car,
-            start_soc_pct=req.start_soc,
-            min_arrival_soc_pct=req.target_arrival_soc,
-            avg_speed_kmh=req.avg_speed_kmh or 90.0,
+class SimulateController:
+    def simulate(
+        self,
+        car: dict,
+        start: list,
+        end: list,
+        start_soc: float,
+        target_arrival_soc: float,
+    ):
+        # haversine distance
+        lat1, lon1 = start
+        lat2, lon2 = end
+        R = 6371.0
+        phi1 = math.radians(lat1)
+        phi2 = math.radians(lat2)
+        dphi = math.radians(lat2 - lat1)
+        dlambda = math.radians(lon2 - lon1)
+        a = (
+            math.sin(dphi / 2) ** 2
+            + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
         )
-        return SimulateResponse(**result, message=ResponseSignal.SUCCESS.value)
-    except Exception as e:
-        raise HTTPException(status_code=400, detail=f"{ResponseSignal.ERROR.value} {e}")
+        c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+        distance_km = R * c
+
+        # Use ML model for prediction
+        energy = mgr.predict_consumption(
+            distance=float(distance_km),
+            speed=80.0,
+            temp=25.0,
+            ac=0,
+            heater=0,
+            payload=100.0,
+            battery_kwh=car["battery_kwh"],
+            eff=car["efficiency_kwh_per_km"],
+        )
+        battery_remaining_kwh = max(
+            car["battery_kwh"] * (start_soc / 100.0) - energy, 0.0
+        )
+        battery_remaining_pct = (battery_remaining_kwh / car["battery_kwh"]) * 100.0
+        needs_charge = battery_remaining_pct < target_arrival_soc
+
+        return {
+            "distance_km": round(distance_km, 3),
+            "energy_needed_kwh": round(energy, 3),
+            "battery_remaining_kwh": round(battery_remaining_kwh, 3),
+            "battery_remaining_percent": round(battery_remaining_pct, 2),
+            "needs_charge": needs_charge,
+            "message": ResponseSignal.SUCCESS.value,
+        }
