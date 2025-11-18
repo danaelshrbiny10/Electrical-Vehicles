@@ -1,0 +1,470 @@
+﻿Station_ID,Station_Name,Address,City,Country,Lat,Lon,Num_Connections,Last_Updated
+461960,Marassem Station 5,North 90,New Cairo,Egypt,30.05281800000000,31.535319000000001,1,08-25-10
+461816,U Venues (Basement Parking),Ring RD,New Cairo,Egypt,30.007681000000002,31.402705999999998,1,06-25-10
+461815,Chillout Ring RD,Ring RD,Katameya,Egypt,30.01496900000000,31.40006700000000,2,06-25-10
+461674,Azzurra Sahl Hasheesh,Hillcrest Ct,Sahl Hasheesh,Egypt,27.053007999999998,33.897027999999999,1,09-30-25
+461542,Total Zafarana,Al Zafarana - Ras Ghareb RD,Zafarana,Egypt,29.077245000000001,32.62719600000000,2,09-26-25
+461180,Wataniya Abou Redis 1,Sharm El Sheikh Int'l RD,South Sainai,Egypt,28.842936999999999,33.229540000000000,3,09-16-25
+461153,Wataniya Eyoun Moussa 1,Sharm El Sheikh Int'l RD,Ras Sedr,Egypt,29.835076999999998,32.66736200000000,3,09-15-25
+460620,Chillout Al Alamein,Int'l Coatal RD,Alameen,Egypt,30.87927200000000,28.86849800000000,2,09-25-25
+460619,Zahra Northed,Int'l Coastal RD,Sidi Abdel Rahman,Egypt,30.93135000000000,28.792679000000000,3,08-28-25
+460614,Watanya - New Capital,Ben Zayed Axis,New Capital,Egypt,30.013708000000001,31.604091000000000,2,08-29-25
+460610,Watanya Saharwy 2,Cairo-Alexandria RD,Sadat,Egypt,30.484760000000001,30.26226200000000,3,08-29-25
+460609,Watanya Sahrawy 1,Cairo-Alexandria RD,Sadat,Egypt,30.485319000000000,30.263774999999999,3,08-29-25
+460476,Dina Farms DC Station,Cairo-Alexandria RD,Sadat,Egypt,30.28268900000000,30.60717800000000,1,08-20-25
+460452,Regent's Park 2,El Nasr,New Cairo,Egypt,30.000796999999999,31.50831200000000,1,08-18-25
+460450,Regent's Park 1,El Nasr,New Cairo,Egypt,30.000979999999998,31.510307999999998,1,08-18-25
+460373,Garage (El Tahrir),Qasr El Nile,Cairo,Egypt,30.0449970000000,31.23489300000000,1,08-14-25
+460335,Mobile South 90,South 90 RD,New Cairo,Egypt,30.01603500000000,31.517087000000000,2,11-25-09
+460218,Mountain View Ras El Hekma/Market,Mountain View Ras El Hekma,Ras El Hekma,Egypt,31.07769400000000,28.031046000000000,1,03-25-08
+460206,Mountain View Ras El Hekma/Lighthouse,Mountain View Ras El Hekma,Ras El Hekma,Egypt,31.08449900000000,28.031148999999999,1,03-25-08
+460164,Water Way - The Drive 2,Bin Zayed Axis,New Cairo,Egypt,30.026440000000001,31.543051999999999,1,07-30-25
+460144,Chillout An Nubariyah,Cairo Alex Desert RD,Nubariya,Egypt,30.67446200000000,30.077135999999999,2,07-29-25
+459431,Master Rest House,Master Rest House Sahrawy,Unknown,Egypt,30.3963060,30.3737820,2,07-14-25
+459428,Ceaser Matcha,Int'l Coastal RD,Ras El Hekma,Egypt,31.07201000000000,28.0078280000000,1,10-25-07
+459427,Ceasar 1,Int'l Coastal RD,Ras El Hekma,Egypt,31.085771999999999,28.007588999999999,1,10-25-07
+459266,LaVista Bay,Int'l Coatal RD,Sidi Abdel Rahman,Egypt,31.070560000000000,28.36724400000000,1,03-25-07
+314002,GAYA Kids Area/Food Court,Int'l Coatal RD,Ras El Hekma,Egypt,31.073913999999998,28.084484000000000,1,02-25-08
+314001,GAYA Beach/Kynd Entrance,Int'l Coatal RD,Ras El Hekma,Egypt,31.084772000000001,28.081963999999999,1,03-25-08
+313982,Sheraton Montazah Alexandria,El Geish RD,Alexandria,Egypt,31.281027000000002,30.011354999999998,1,06-17-25
+313927,Royal Beach Ras Sudr,Ras Sidr,Ras Sudr,Egypt,29.537749999999999,32.72730500000000,1,06-16-25
+313012,Aeon Residential Station 1,Gamal Abdel Nasser St ,October,Egypt,30.004190000000001,30.967566999999999,1,02-25-08
+312966,Heliopolis 3,Badr,Badr,Egypt,30.13424100000000,31.67269700000000,1,05-31-25
+312965,Heliopolis 2,Badr,Badr,Egypt,30.13836100000000,31.67963100000000,1,05-31-25
+312964,Heliopolis 1,Badr,Badr,Egypt,30.113823000000000,31.693618000000001,1,05-31-25
+312925,"Mokattam, El Naser Housing Parking",Abdel Mageed Mahmoud Axis,Cairo,Egypt,30.016172999999998,31.29393400000000,2,06-14-25
+312662,El Nassea Group,Boustan Street,Obour,Egypt,30.257628000000000,31.46059600000000,3,05-17-25
+312622,Chillout Sadat,Cairo-Alexandria Desert RD,Sadat,Egypt,30.392662000000001,30.377102000000001,2,05-14-25
+312621,OLA Sahrawy,Cairo-AlexandriaRD,Saday,Egypt,30.30557700000000,30.56382000000,2,05-14-25
+311935,Blumar Sidi AbdelRahman Station,Int'l Coatal RD,Sidi AbdelRahman,Egypt,30.99492400000000,28.672172000000000,1,09-25-06
+311934,Blumar Sidi AbdelRahman Station 2,Int'l Coatal RD,Sidi AbdelRahman,Egypt,30.999009999999998,28.67219900000000,1,09-25-06
+311933,Wadi Degla Blumar El Doom Station 1,Hurghada Cairo RD,Ain Sokhna,Egypt,29.438019000000001,32.4971360000000,1,04-24-25
+311932,Wadi Degla Blumar El Doom Station 2,Hurghada Cairo RD,Ain Sokhna,Egypt,29.434241000000000,32.497799000000,1,04-24-25
+311931,Wadi Degla Murano Station 1,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.59166100000000,32.33866600000000,1,04-24-25
+311930,Wadi Degla Murano Station 2,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.592627000000000,32.33870200000000,1,04-24-25
+311929,Wadi Degla Blumar Station 2,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.74640200000000,32.395488999999998,1,04-24-25
+311928,Wadi Degla Blumar El Sokhna Station 1,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.744389000000002,32.39842600000000,1,04-24-25
+311927,Wadi Degla Marina Station 2,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.71763600000000,32.38107800000000,1,04-24-25
+311926,Wadi Degla Marina Station 1,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.720486999999999,32.376418999999999,1,04-24-25
+311925,Al-Borouj Business Park 2,Cairo Ismailia RD,New Heliopolis,Egypt,30.20693000000000,31.67407900000000,1,04-24-25
+311924,Al-Borouj Business Park 1,Cairo Ismailia RD,New Heliopolis,Egypt,30.206695000000000,31.673679000000000,3,08-21-25
+311923,Mivida Eterna Health Care ,South 90 RD,New Cairo,Egypt,30.001059000000,31.53168000000000,1,02-25-05
+311922,Wadi Degla Promenade Compound Station 2,Mohammed Naguib Axis,New Cairo,Egypt,29.98378600000000,31.53104300000000,1,04-24-25
+311921,Wadi Degla Promenade Compund Station 1,Mohammed Naguib Axis,New Cairo,Egypt,29.984915000000001,31.52987700000000,1,04-24-25
+311920,Marasem Fifth Square Station 4,El Nasr RD,New Cairo,Egypt,30.052797999999999,31.53782100000000,1,04-24-25
+311919,Marasem Club House,El Nasr Rd,New Cairo,Egypt,30.051331000000001,31.53667200000000,1,04-24-25
+311918,Amr El Howedi Office,South 90 RD,New Cairo,Egypt,30.01678000000000,31.4084320000000,1,04-24-25
+311917,CFC Mall - Gate 5,Ring RD,New Cairo,Egypt,30.026233999999999,31.405774000000001,1,04-24-25
+311916,CFC City - Living Compound,Ring RD,New Cairo,Egypt,30.03272300000000,31.40894300000000,1,04-24-25
+311915,CFC Mall - Kidzania,Ring RD,New Cairo,Egypt,30.031734000000000,31.40638100000000,1,04-24-25
+311888,Ezz Star - Mercedes Benz,Gamal Abdel Nasser St.,October City,Egypt,29.996499000000000,30.953105000000001,1,04-22-25
+311887,Americana Plaza - El Sheikh Zayed,Al Rawda St,October City,Egypt,30.027514000000000,31.014173000000000,1,08-25-05
+311831,OLA - Abis,Borg El Arab,Alexandria,Egypt,30.983271999999999,29.683088000000001,2,04-18-25
+311822,Wataniya - Sharm El Sheikh,Ibn Dina RD,Sharm El Sheikh,Egypt,27.903347000000000,34.30046900000000,1,04-17-25
+311742,Hydepark (C14),South 90 RD,New Cairo,Egypt,29.9737840000000,31.549800000000001,1,02-25-05
+311741,Hydepark (C21),South 90 RD,New Cairo,Egypt,29.975273999999999,31.547070999999999,1,03-25-05
+311708,Hydepark (HydeOut),South 90,New Cairo,Egypt,29.97659800000000,31.54461900000000,2,04-17-25
+311447,Oscar Grand Stores (Basement Parking/P1),North 90 RD,New Cairo,Egypt,30.02780100000000,31.48910300000000,1,03-31-25
+311398,Leven Square,Abdallah Ibn Salam St,New Cairo,Egypt,30.046182999999999,31.485455000000002,1,03-26-25
+311304,Sodic Eastown,South 90,New Cairo,Egypt,30.01303800000000,31.51599200000000,1,02-25-05
+309502,Arabella Plaza (Basement Parking),Gamal Abdel Nasser Rd,New Cairo,Egypt,29.99099100000000,31.432137999999998,2,04-25-05
+309485,Al Qa2ed Lel-A3laf,Mansoura,Unknown,Egypt,31.0239470,31.3991120,2,12-25-03
+309386,El Sharq Gas Station,El Wahat RD,October City,Egypt,29.94938800000000,31.091799999999999,3,09-25-03
+309179,Sodic - EDNC,South 90 RD,New Cairo,Egypt,30.015582999999999,31.513370999999999,1,03-25-03
+309011,Chillout El Shaheed 2,El Moshir Tantawy Axis,Cairo,Egypt,30.022531000000001,31.32923900000000,1,02-20-25
+309010,Chillout El Shaheed 1,Al Moshir Tantawy Axis,Cairo,Egypt,30.02122400000000,31.32894000000000,1,02-20-25
+309007,Uptown - Sierras,Uptown Cairo,Cairo,Egypt,30.017287000000000,31.295598999999999,1,02-20-25
+309006,Uptown - Fourteen,Uptown Cairo,Cairo,Egypt,30.028219000000000,31.283045000000001,1,02-20-25
+309005,Uptown - Fountain Side,Uptown Cairo,Cairo,Egypt,30.024591999999998,31.289660999999999,1,02-20-25
+308831,Four Seasons First Mall (4seasons -2),Charles de Gaulle,Giza,Egypt,30.024093000000001,31.217489000000000,1,04-22-25
+308784,Fit & Fix El Wahat RD,Wahat RD,October City,Egypt,29.95755000000000,31.05604300000000,4,02-21-25
+308567,Green Plaza Mall,14th of May St,Alexandria,Egypt,31.207965999999999,29.964612000000,1,01-25-02
+308566,Maxim Mall (Basement Parking),Tahrir Axis,New Cairo,Egypt,30.029862999999999,31.496451000000000,3,03-25-05
+308565,Maxim Mall (Outdoor Parking),Tahrir Axis,New Cairo,Egypt,30.02969100000000,31.496217000000001,1,03-25-05
+308211,Ikarus New Suhag,Kawamel,Sohag,Egypt,26.437230000000000,31.675809999999998,2,04-17-25
+308047,Distribution Office (Parking),Government District,New Capital,Egypt,30.00991400000000,31.74472200000000,1,02-25-05
+308046,Government District (Monorail Station Parking),Government District,New Capital,Egypt,30.009364999999999,31.744812000000000,2,01-25-25
+308045,Goverment District (Monorail Station Parking),Government District,New Capital,Egypt,30.009404000000000,31.745056999999999,2,01-19-25
+307974,Al Rehab 2 / Ahmed Afifi Mosque Parking,Talaat Mostafa St,New Cairo,Egypt,30.058630000000001,31.488136999999998,2,04-19-25
+307973,Al Rehab 1 / Hesham Hosny Mosque Parking,Rehab,New Cairo,Egypt,30.070148000000000,31.50953300000000,2,04-19-25
+307903,Arkan Plaza (Basement Parking),Al Bostan St,October City,Egypt,30.020181000000001,31.003657000000000,1,01-13-25
+307902,Master Rest House (Fit & Fix),Cairo Alex Desert RD,Sadat City,Egypt,30.396298000000002,30.373805000000001,1,11-25-04
+307897,District 5,District 5,Kattameya,Egypt,29.954761000000001,31.449850000000001,1,01-13-25
+307837,Sodic Courtyard,Sodic West,October City,Egypt,30.071009000000000,30.938286999999999,1,08-25-05
+307836,Sodic Polygon,Sodic West,October City,Egypt,30.070630999999999,30.94623500000000,1,08-25-05
+307816,"CFC, Oriana Station",CFC,New Cairo,Egypt,30.030273000000001,31.412206999999999,1,04-24-25
+307713,Al Rehab 3 / Al Rahman Mosque Parking,Talaat Mostafa St,New Cairo,Egypt,30.064177999999998,31.481286999999998,2,04-19-25
+307517,El Marasem Fifth Square Station 1,North Tesen St,New Cairo,Egypt,30.0481040000000,31.53862600000000,1,04-24-25
+307510,Agora Mall (Outdoor Parking),Al Nasr,New Cairo,Egypt,30.021170000000001,31.528700000000001,1,12-28-24
+307434,5A by the Waterway (Basement Parking),Shouyfat,New Cairo,Egypt,30.00889900000000,31.402515999999999,1,12-25-24
+307386,Sodic Villette,Mivida St,New Cairo,Egypt,30.015274999999999,31.54631900000000,1,02-25-05
+307346,The Yard (Basement Parking/Fat'hallah Market),Sadat Axis,New Cairo,Egypt,30.053604000000000,31.491793999999999,3,12-27-24
+307208,Lake Plaza (King Mariout),Borg Al Arab Airport RD,Alexandria,Egypt,30.980892999999998,29.6591400000000,3,12-19-24
+307095,Mountain View HP 201,Mountain View Hyde Park,New Cairo,Egypt,29.983848999999999,31.553989999999999,1,02-25-05
+307094,Mountain View HP 186,Mountain View Hyde Park,New Cairo,Egypt,29.98409000000000,31.55485300000000,1,02-25-05
+307093,Mountain View HP 75,Mountain View Hyde Park,New Cairo,Egypt,29.98522100000000,31.554680999999999,1,02-25-05
+307092,Mountain View HP 70,Mountain View Hyde Park,New Cairo,Egypt,29.983972999999999,31.556484999999999,1,02-25-05
+307091,Mountain View HP Main Gate,Mountain View Hyde Park,New Cairo,Egypt,29.98850300000000,31.559356999999999,1,02-25-05
+307090,Mountain View HP 163,Mountain View Hyde Park,New Cairo,Egypt,29.990604999999999,31.556324000000,1,02-25-05
+307089,Mountain View HP 14,Mountain View Hyde Park,New Cairo,Egypt,29.99189400000000,31.554338999999999,1,02-25-05
+307088,Mountain View HP 50,Mountain View Hyde Park,New Cairo,Egypt,29.990131999999999,31.553650999999999,1,02-25-05
+307087,Mountain View HP 142,Mountain View Hyde Park,New Cairo,Egypt,29.98938600000000,31.552239000000000,1,02-25-05
+306942,Heliopolis Club Sherouk Gate 3,شارع محمد لطيف,Sherouk,Egypt,30.13125100000000,31.616986000000001,1,02-25-05
+306941,Heliopolis Club Sherouk Gate 2,شارع محمد لطيف,Sherouk,Egypt,30.132747999999999,31.61473100000000,1,02-25-05
+306905,The Nile Ritz-Carlton Cairo,شارع وسيم حسن,Cairo,Egypt,30.045862000000000,31.231867999999999,1,03-25-05
+306900,Hola (Marhaba),Atef Al Sadat St,Port Said,Egypt,31.271432000000001,32.30517900000000,1,03-25-05
+306899,Multistorey Parking (Level-1),Al Nasr St,Port Said,Egypt,31.259550999999998,32.29484700000000,1,12-27-24
+306742,Blue Blue (Khair Zaman Parking),"طريق العين السخنه, الزعفرانه",Sokhna,Egypt,29.234344000000000,32.622515000000000,1,12-24-24
+306546,ETAPA Phase 1,Al Mustakbal RD,October City,Egypt,30.068570000000001,30.972821000000000,1,11-26-24
+306545,ETAPA Phase 1,Al Mustakbal RD,October City,Egypt,30.06755700000000,30.97395200000000,1,11-26-24
+306544,The Access (Outgoing and Sporting Gate),Al Zohour,October City,Egypt,30.02743200000000,31.006022000000002,1,11-26-24
+306543,Upville compund station,Waslet Dahshur,October City,Egypt,29.98267700000000,31.009917000000002,1,01-17-25
+306542,Vida Hotel - Marassi station,Marassi,Sidi AbdelRahman,Egypt,30.96497800000000,28.76181400000000,1,09-25-05
+306536,Swan Lake - EV 09,Swan Lake,Gouna,Egypt,27.405168000000000,33.65870300000000,2,11-26-24
+306535,Swan Lake - EV 06,Swan Lake,Gouna,Egypt,27.406466000000002,33.65877500000000,2,11-26-24
+306534,Swan Lake - EV 20,Swan Lake,Gouna,Egypt,27.40606700000000,33.65747900000000,2,11-26-24
+306471,O West Whyt,O West,October City,Egypt,29.955134000000001,30.99090800000000,1,11-24-24
+306470,O West Tulwa,O West,October City,Egypt,29.962862999999999,30.993891999999999,1,11-24-24
+306458,Il Monte Galala - Flying Park,Il Monte Galala,Il Monte Galala,Egypt,29.49849700000000,32.40966400000000,2,11-24-24
+306433,Mivida - P43 - B5,Mivida,New Cairo,Egypt,30.00214100000000,31.53264200000000,1,02-25-05
+306432,Mivida - P43 - B8,Mivida,New Cairo,Egypt,30.00310800000000,31.53359100000000,1,02-25-05
+306431,Mivida - P10 - 3A,Mivida,New Cairo,Egypt,30.00455600000000,31.53654000000000,1,02-25-05
+306430,Mivida - P21 - C7,Mivida,New Cairo,Egypt,30.008258999999999,31.53900500000000,1,02-25-05
+306429,Mivida - P25,Mivida,New Cairo,Egypt,30.009546000000000,31.535129000000001,1,02-25-05
+306428,Mivida - P27,Mivida,New Cairo,Egypt,30.009830999999998,31.53514300000000,1,02-25-05
+306427,Mivida - P21 - C1,Mivida,New Cairo,Egypt,30.01121800000000,31.537642999999999,1,02-25-05
+306426,OLA - Mohamed Nagib Axis,محور محمد نجيب,New Cairo,Egypt,29.975567000000002,31.47174800000000,3,07-24-12
+306412,Mivida P23 - B13,Mivida,New Cairo,Egypt,30.013587999999999,31.532945999999999,1,02-25-05
+306411,Mivida P23,Mivida,New Cairo,Egypt,30.014417999999999,31.533525000000001,1,02-25-05
+306306,Mivida - FM,شارع ميفيدا,New Cairo,Egypt,30.017638999999999,31.533595999999999,1,11-21-24
+306305,The Square - Zone H,The Square,New Cairo,Egypt,29.995653000000001,31.549873999999999,1,02-25-05
+306304,City Center - Hurghada (-2),شارع البحر,Hurghada,Egypt,27.25600700000000,33.83012200000000,3,12-19-24
+306303,City Center - Hurghada (-1),شارع البحر,Hurghada,Egypt,27.256162000000000,33.82897400000000,1,12-19-24
+306302,Hilton - Hurghada,شارع البحر,Hurghada,Egypt,27.25713200000000,33.828508999999997,1,11-21-24
+305761,Fuel Up - 6th October,الطريق الدائري,October City,Egypt,29.999545000000001,31.099505000000001,3,06-24-12
+305595,Steigenberger Resort Station,شارع دكتور مجدي يعقوب,Gouna,Egypt,27.390557999999999,33.677138999999997,1,10-22-24
+305594,Sheraton Hotel Station,شارع محمد ابراهيم كمال,Gouna,Egypt,27.404534999999999,33.67769800000000,1,10-22-24
+305593,Movinpick Hotel Station,شارع دكتور مجدي يعقوب,Gouna,Egypt,27.39561200000000,33.6839350000000,1,10-22-24
+305592,Almaza Bay,Sidi Henish,Sidi Henish,Egypt,31.195059000000001,27.555446000000000,1,09-25-05
+305591,Wataniya Borqan 1,"طريق وادى النطرون, العلمين الجانبى",Alameen,Egypt,30.67610700000000,29.308800000000002,3,01-25-08
+305590,Al Asiouty Sports Resort,"طريق القاهرة, اسيوط الصحراوى الغربى",Fayoum,Egypt,29.397672000000000,31.112417000000001,1,10-22-24
+305589,Makadi Heights Phase 2,Makadi,Makadi,Egypt,26.96398800000000,33.891361000000003,2,10-22-24
+305588,Makadi Heights Phase 1,Makadi,Makadi,Egypt,26.963701000000000,33.88242400000000,2,10-22-24
+305587,Trivium Mall - 5th Settlement,North 90 ST,New Cairo,Egypt,30.027211000000001,31.477796999999999,3,04-17-25
+305447,Chillout El Sokhna Master 2,"طريق القطامية, العين السخنه",Kattameya,Egypt,29.96002800000000,31.45192000000000,1,10-17-24
+305438,CPC Industrial Zone,شارع 32,October City,Egypt,29.940073000000002,30.866485000000001,1,10-16-24
+305437,Aeon Residential Station 2,Gamal Abdel Nasser ST,October City,Egypt,30.00498800000000,30.969201999999999,3,02-25-06
+305436,Mall Of Arabia Gate 19,شارع جمال عبد الناصر,October City,Egypt,30.007621000000000,30.972740999999999,1,10-16-24
+305435,Mall Of Arabia Gate 2,محور 26 يوليو,October City,Egypt,30.006543000000001,30.97700800000000,1,10-16-24
+305434,ZED West Residential Station,شارع العبور,October City,Egypt,30.0485010000000,31.00238400000000,1,08-25-05
+305433,Hyde Park Club House Station,Hyde Park,New Cairo,Egypt,29.98607500000000,31.54394400000000,1,02-25-05
+305432,Hyde Park - 7mart Station,Hyde Park,New Cairo,Egypt,29.971060999999999,31.544139000000001,1,10-16-24
+305431,Jayd Residential Station,Youssef El Sebai,New Cairo,Egypt,30.06621300000000,31.52011000000000,1,02-25-05
+305430,El Mostakbal City Pedal Club Station 1,الطريق الدائري الأوسطى الجانبي,Mostakbal City,Egypt,30.04916000000000,31.616436000000000,1,10-16-24
+305429,One Ninety New Cairo,شارع قاسم امين,New Cairo,Egypt,30.0150380000000,31.40750200000000,1,10-16-24
+305428,Al Borouj Compund Sales Center,Obour,Obour,Egypt,30.19997600000000,31.67500200000000,1,10-16-24
+305427,Somabay Mesca,Mesca,Somabay,Egypt,26.86490400000000,33.96879900000000,1,10-16-24
+305426,Marassi Mosque,Marassi,Sidi Abdel Rahman,Egypt,30.963329999999999,28.75726900000000,1,09-25-05
+305425,Marassi Social Club,Unknown,Sidi Abdel Rahman,Egypt,30.963932000000000,28.756736000000000,1,09-25-05
+305424,The Address Beach Hotel,الطريق الساحلى الدولى,Sidi Abdel Rahman,Egypt,30.96656700000000,28.764130999999999,1,09-25-05
+305423,Marassi 4 Bfit,Unknown,Sidi Abdel Rahman,Egypt,30.97432200000000,28.73885000000000,1,10-16-24
+305422,Marassi North Beach 1,الطريق الساحلى الدولى,Sidi Abdel Rahman,Egypt,30.982413999999999,28.739661999999999,1,09-25-05
+305421,Marassi Beach Club House,الطريق الساحلى الدولى,Sidi Abdel Rahman,Egypt,30.977668999999999,28.755300999999999,1,09-25-05
+305420,Marassi North Beach 2,Marassi,Sidi Abdel Rahman,Egypt,30.98219800000000,28.752793000000000,1,09-25-05
+305418,Cleopatra NABAQ Hotel,طريق السلام,Sharm El Sheikh,Egypt,28.02186100000000,34.43520200000000,1,10-16-24
+305399,Shooting Club Dokki Gate 1,شارع مكه,Dokki,Egypt,30.043424000000002,31.201477000000001,1,03-25-05
+305398,Shooting Club Dokki Gate 2,شارع مكه,Dokki,Egypt,30.04558200000000,31.200773000000002,1,03-25-05
+305397,Shooting Club Dokki Gate 7,شارع مكه,Dokki,Egypt,30.046251000000002,31.203574000000000,1,03-25-05
+305396,Shooting Club Dokki Gate 5,شارع مكه,Dokki,Egypt,30.047756000000000,31.20160300000000,1,03-25-05
+305395,Gezira Sports Club,شارع حسن صبري,Zamalek,Egypt,30.052662999999999,31.223495000000000,1,08-25-05
+305394,Nile City Towers,شارع كورنيش النيل,Down Town,Egypt,30.07180100000000,31.228079999999999,1,10-15-24
+305393,World Trade Center,شارع المطبعه الاميريه,Down Town,Egypt,30.065386000000000,31.2288020000000,1,03-25-05
+305392,Torgoman Bus Station,شارع وابور الترجمان,Down Town,Egypt,30.057759999999998,31.23856200000000,1,10-15-24
+305391,Al Azhar Park A,Royal Palm Promenade,Down Town,Egypt,30.042632000000001,31.265934999999999,1,10-15-24
+305390,Triumph Plaza Hotel,شارع احسان عبد القدوس,Masr El Gedida,Egypt,30.08583100000000,31.305641999999999,1,10-15-24
+305389,Heliopolis Sporting Club,شارع السلحدار,Masr El Gedida,Egypt,30.08800500000000,31.317858000000001,1,10-15-24
+305388,Al Ahly SC Nasr City,طريق النصر,Madinet Nasr,Egypt,30.073395000000001,31.35817500000000,1,02-25-05
+305387,Radisson Blu Hotel,شارع الزهور,Masr El Gedida,Egypt,30.1064180000000,31.375025999999998,1,02-25-05
+305386,Cairo Complex 1,شارع انقره,Masr El Gedida,Egypt,30.10970500000000,31.381322999999998,1,02-25-05
+305385,Cairo Complex 2,شارع انقره,Unknown,Egypt,30.11016100000000,31.381761999999998,1,02-25-05
+305384,Cairo Complex 1,El Nasr RD,Masr El Gedida,Egypt,30.10902600000000,31.383044000000002,1,02-25-05
+305383,A1 Zahraa 1,طريق النصر الجانيى,Maadi,Egypt,29.97557300000000,31.29025500000000,1,10-15-24
+305382,A1 Zahraa 3,طريق القاهرة السويس,Maadi,Egypt,29.96952800000000,31.334671000000000,1,10-15-24
+305381,Shooting Club Kattamya 2,شارع ابو بكر الصديق,Mokattam,Egypt,29.985160000000000,31.33223200000000,1,02-25-05
+305380,Shooting Club Kattameya 1,شارع ابو بكر الصديق,Mokattam,Egypt,29.984646000000001,31.33203500000000,1,02-25-05
+305379,Pegasus Club (Security Gates),Dreamland,October City,Egypt,29.96155100000000,31.048534000000000,1,04-28-25
+305378,Capital Business Park,26 July Axis,October City,Egypt,30.02552700000000,31.012937999999998,1,02-25-05
+305376,Atrium Zayed,شارع الشباب,October City,Egypt,30.03178900000000,31.00002400000000,1,10-15-24
+305375,The Courtyard Zayed,El Mostakbal ST,October City,Egypt,30.042394000000002,30.98007300000000,1,08-25-05
+305374,Address Compound,El Salam ST,October City,Egypt,30.045486000000000,30.979212000000000,1,08-25-05
+305373,Shooting Club October Gate 4,التوسعات الشمالية,October City,Egypt,30.000121000000000,30.947575000000001,1,08-25-05
+305372,Shooting Club October Gate 3,شارع جمال عبد الناصر,October City,Egypt,30.000644999999999,30.95090200000000,1,08-25-05
+305371,Shooting Club October Gate 1,شارع جمال عبد الناصر,October City,Egypt,29.996538999999999,30.95170700000000,1,08-25-05
+305370,Mena Garden City,Naguib Mahfouz ST,October City,Egypt,29.990109000000000,30.976347000000001,1,08-25-05
+305369,City Park Walkway,Waslet Dahshour,Unknown,Egypt,30.017441999999999,30.973486999999999,1,10-15-24
+305368,City Walk Strip,طريق وصله دهشور,October City,Egypt,30.046133999999999,30.950392999999998,2,10-15-24
+305367,Al Ahly SC Sheikh Zayed Right,شارع النزهة,October City,Egypt,30.081060999999998,30.977129999999999,1,04-28-25
+305366,Al Ahly SC Sheikh Zayed Left,"طريق القاهرة, الاسكندرية الصحراوي الجانبي",October City,Egypt,30.08107300000000,30.976098000000000,1,04-28-25
+305365,FRA,Smart Village,October City,Egypt,30.078322000000000,31.01441300000000,1,10-15-24
+305361,Triumph Luxury Hotel,شارع الإمام محمد عبده,New Cairo,Egypt,30.003844000000001,31.401669999999999,1,05-31-25
+305360,Arabella Plaza (Basement Parking I2-I3),محور جمال عبد الناصر,New Cairo,Egypt,29.99157500000000,31.431989999999999,1,08-25-02
+305359,OLA Energy Sawn Lake,Youssrf El Sebai Axis,New Cairo,Egypt,30.068726999999999,31.467572000000001,1,06-24-12
+305357,Oscan Grand Store (Basement Parking / P1),North 90 ST,New Cairo,Egypt,30.027888000000001,31.489083999999998,1,05-24-25
+305356,FP.ICON Boutique Mall,شارع التسعين الجنوبي,New Cairo,Egypt,30.026070000000001,31.495659000000000,1,01-30-25
+305355,Platinum Club,شارع النصر,New Cairo,Egypt,30.037510000000001,31.52720600000000,1,02-25-05
+305354,Al Ahly SC New Cairo,محور عباس العقاد,New Cairo,Egypt,30.04037700000000,31.55288200000000,1,04-23-25
+305352,OLA Energy Al Sherouk,طريق احمد عرابى,Shorouk,Egypt,30.10922300000000,31.60892100000000,1,10-15-24
+305351,GRANDA Al Shorouk GYM,Shorouk,Shorouk,Egypt,30.12136000000000,31.62356300000000,1,02-25-05
+305349,THE EDGE - EGYGAB,شارع حلب,Shorouk,Egypt,30.11922800000000,31.626186000000001,1,02-25-05
+305348,GRANDA Al Shorouk,Shrouk,Shrouk,Egypt,30.12027200000000,31.62665000000000,1,02-25-05
+305347,Wataniya Sherouk,Shrouk,Shrouk,Egypt,30.15078400000000,31.64509200000000,1,10-15-24
+305346,Madinaty B11,طريق طلعت مصطفى,Madinaty,Egypt,30.076542000000000,31.658470999999999,1,10-15-24
+305343,UofCanada,الطريق الدائري الإقليمي,New Capital,Egypt,30.02925800000000,31.713059000000001,1,02-25-05
+305341,"Somabay, Wadi Jebal (Zone H)",Somabay,Somabay,Egypt,26.8620000000000,33.99077800000000,1,10-15-24
+305339,"Somabay, Wadi Jebal (Zone D)",Soma Ay,Somabay,Egypt,26.8616520000000,33.99234100000000,1,10-15-24
+305338,"Sombay, Golf Town",Sombay,Somabay,Egypt,26.85785700000000,33.99221500000000,1,10-15-24
+305337,Makadi Heights Mall,Makadi Bay,Makadi Bay,Egypt,26.963308000000001,33.87848600000000,1,10-15-24
+305336,Sayadeen Village,شارع الصيادين,Nuweiba,Egypt,28.971903000000001,34.65924200000000,3,10-15-24
+305335,Safari Beach Camp Nuweiba,"طريق نويبع, طابا",Nuweiba,Egypt,29.167736000000001,34.69443500000000,1,10-15-24
+305334,Basta Village,"طريق نويبع, طابا",Nuweiba,Egypt,29.207146000000002,34.73473000000000,1,10-15-24
+305333,Nekhel,Nekhel RD,Nekhel,Egypt,29.90935000000000,33.74487100000000,1,10-15-24
+305332,Misr Petroleum Tayara,"طريق بلبيس, الزقازيق",10th Of Ramadan City,Egypt,30.371328999999999,31.560437000000000,1,10-15-24
+305328,Smouh Sporting Club (Pool),شارع 38,Alexandria,Egypt,31.2174150000000,29.950894000000002,1,10-15-24
+305326,Smouha Sporting Club (Tennis),شارع 38,Alexandria,Egypt,31.216411000000001,29.953672999999998,1,10-15-24
+305325,Smouha Sporting Club (Equestrian),شارع 38,Alexandria,Egypt,31.21386600000000,29.95799700000000,1,10-15-24
+305322,Mobil Gas Station Abu Humus,"طريق القاهرة, الاسكندرية الزراعى",Behira,Egypt,31.078982000000000,30.321501000000001,1,10-15-24
+305319,Marsa Alam - Lazuli Hotel,"طريق القصير, مرسى علم",Marsa Alam,Egypt,25.972517000000000,34.35352200000000,1,04-17-25
+305318,Hacienda Red 1,الطريق الساحلى الدولى,Matrouh,Egypt,31.003682000000001,28.651463000000000,1,09-25-05
+305317,Hacienda Red 2,الطريق الساحلى الدولى,Matrouh,Egypt,30.999340000000000,28.649625000000000,1,09-25-05
+305316,Seashell 1,الطريق الساحلى الدولى,Matrouh,Egypt,30.99542200000000,28.69750800000000,1,09-25-05
+305315,Seashell 2,Seashell,Matrouh,Egypt,30.989332999999998,28.693857999999999,1,09-25-05
+305314,Marassi MPorium,Marassi,Matrouh,Egypt,30.972538000000000,28.74080400000000,1,10-15-24
+305313,Chillout Marina 5,Marina 5,Matrouh,Egypt,30.838215000000002,28.98538400000000,1,10-15-24
+305312,Orouba Mall,"طريق مطار برج العرب, الساحل الشمالي",Alexandria,Egypt,31.00638600000000,29.638276999999999,4,10-15-24
+305311,King Marriott Academy,"طريق برج العرب, العامريه الجانبي",Alexandria,Egypt,31.02489200000000,29.77543300000000,1,10-15-24
+305310,Mansour Auto Amerya,"طريق القاهرة, الاسكندرية الصحراوي",Alexandria,Egypt,31.04696000000000,29.786204999999999,3,10-15-24
+305309,Chillout Bashair El Khair,International Coastal RD,Alexandria,Egypt,31.160480000000000,29.88751100000000,1,10-15-24
+305308,Chillout El Kabary,الطريق الساحلى الدولى,Alexandria,Egypt,31.16796800000000,29.89894400000000,1,10-15-24
+305307,Total Alexandria El Mahmoudeya,شارع قنال المحمودية,Alexandria,Egypt,31.202466999999999,29.938634000000000,1,10-15-24
+305306,Chillout Mansoura,شارع المكباتي,Mansoura,Egypt,31.053978000000001,31.409641000000001,1,10-15-24
+305305,Chillout Mansoura 2,Al Geish ST,Mansoura,Egypt,31.036977000000000,31.39477000000000,1,10-15-24
+305304,Mall Of Tanta,"طريق كفر الشيخ, طنطا",Tanta,Egypt,30.841742000000000,31.017261999999999,1,10-15-24
+305303,Chillout Tanta,شارع الحجاج بن يوسف,Tanta,Egypt,30.797270000000001,30.998072000000001,1,10-15-24
+305302,Chillout Shebin El Koum,شارع جمال عبد الناصر,Minufya,Egypt,30.578434000000001,31.008944000000000,1,10-15-24
+305301,Chillout Shobra Banha 3,"طريق شبرا, بنها الحر",Qualyobeya,Egypt,30.343456000000000,31.23721500000000,4,10-15-24
+305300,Chillout Shobra Banha 2,"طريق شبرا, بنها الحر",October City,Egypt,30.207363000000001,31.231829999999999,4,10-15-24
+305299,Majaz Mall,طريق المدينة التعليمية,October City,Egypt,30.00332500000000,31.001697000000000,1,10-15-24
+305294,The Isle (Zone B),Waslet Dahshour RD,October City,Egypt,30.00989300000000,30.985226000000001,1,11-15-24
+305293,The Isle (Zone A),Waslet Dahshour RD,October City,Egypt,30.00948800000000,30.982831000000001,1,11-15-24
+305274,Total Damietta Int'l Coastal RD,Int'l Coastal RD,Damietta,Egypt,31.436237999999999,31.56660000000000,3,10-14-24
+305272,Total Damietta El Reyad,الطريق الساحلى الدولى,Damietta,Egypt,31.416010000000000,31.646621000000000,1,10-14-24
+305271,Total Damietta Rakha,طريق الميناء,Damietta,Egypt,31.412859000000001,31.737860999999999,1,10-14-24
+305270,OLA Damietta El Captin,طريق الميناء,Damietta,Egypt,31.42809400000000,31.752756999999999,1,10-14-24
+305269,Carrefour El Wahat Road,El Wahat RD,October City,Egypt,29.952411999999999,30.954225999999998,1,10-14-24
+305268,Chillout City Scape,المحور المركزى,October City,Egypt,29.965014000000000,30.92807100000000,1,10-14-24
+305267,Chillout Bank El Baraka,المحور المركزى,October City,Egypt,29.951222000000001,30.91295400000000,1,10-14-24
+305266,Chillout Vodafone,المحور المركزى,October City,Egypt,29.951269000000000,30.911429999999999,1,10-14-24
+305265,Nyoum October,Boulevard Axis,October City,Egypt,29.982196999999999,30.88003000000000,1,08-25-05
+305264,Green 5,Boulevard Axis,October City,Egypt,29.99661400000000,30.90486000000000,1,08-25-05
+305263,Blue Park,Gamal Abd El Naser ST,October City,Egypt,29.994609000000001,30.950104000000000,1,10-14-24
+305261,Water Park,شارع مجدي أبو السعود,October City,Egypt,29.99963500000000,30.987907000000000,1,10-14-24
+305260,Mall Of Arabia - Gate 9,محور 26 يوليو,October City,Egypt,30.00727400000000,30.977886000000002,1,10-14-24
+305258,Mall Of Arabia - Gate 11,طريق وصله دهشور,October City,Egypt,30.009488000000001,30.978728000000000,1,10-18-25
+305257,Chillout Mall Of Arabia,طريق وصله دهشور,October City,Egypt,30.015571999999999,30.975311999999999,1,10-14-24
+305256,Chillout Dahshour RD,طريق وصله دهشور,October City,Egypt,30.029754000000001,30.964312000000000,1,10-14-24
+305255,Golden Walk,طريق وصله دهشور,October City,Egypt,30.05273800000000,30.94536400000000,1,10-14-24
+305254,Sodic WestTown Hub,طريق بيفرلي هيلز,October City,Egypt,30.072700000000001,30.946943999999998,1,08-25-05
+305253,Walk Of Cairo,Alexandria Desert RD,October City,Egypt,30.0773290000000,30.950672999999998,4,10-14-24
+305252,Chillout Sahrawy,"طريق القاهرة, الاسكندرية الصحراوي",October City,Egypt,30.0668410000000,31.019207000000002,4,10-14-24
+305251,Dandy Mall,"طريق القاهرة, الاسكندرية الصحراوي",October City,Egypt,30.062898000000001,31.027857000000001,1,10-14-24
+305250,Mansour Auto Abou Rawash (Outdoor Parking),Abou Rawash,October City,Egypt,30.078567000000000,31.048939000000001,3,05-17-25
+305249,West Mark,West Mark,October City,Egypt,30.007432999999999,30.99360100000000,1,10-14-24
+305248,Galleria 40,Galleria 40,October City,Egypt,30.016749000000001,31.00054300000000,1,10-14-24
+305247,Chillout Galleria 40,محور 26 يوليو الجانبى,October City,Egypt,30.015131000000000,31.002776000000001,4,10-14-24
+305245,The Lane Mall,The Lane Mall,October City,Egypt,30.018366000000000,31.010023000000000,1,10-14-24
+305244,Park St.,شارع البستان,October City,Egypt,30.02591600000000,31.011327000000001,1,10-14-24
+305243,Capital Business Park,Capital Business Park,October City,Egypt,30.02585300000000,31.012027000000000,1,10-14-24
+305242,Majarrah,شارع الروضة,October City,Egypt,30.025998999999999,31.014886000000001,1,10-14-24
+305241,Chillout El Khamail 1,محور 26 يوليو الجانبى,October City,Egypt,30.037582000000000,31.037002999999999,1,10-14-24
+305240,Chillout El Khamail 2,محور 26 يوليو الجانبى,October City,Egypt,30.038307000000000,31.036557999999999,4,10-14-24
+305239,PalmHills Str. 88,Palm Hills,October,Egypt,30.01370200000000,31.02544700000000,1,08-25-05
+305238,PalmHills Club,PalmHills,October City,Egypt,30.012428000000000,31.03105600000000,1,08-25-05
+305237,PalmHills Golf,شارع نيوجيزة,October City,Egypt,30.008161999999999,31.034047999999999,1,08-25-05
+305236,PalmHills Badya,Palm Hills Badya,October City,Egypt,29.846685000000001,30.91667500000000,1,10-14-24
+305235,Golf Central,Golf Central Palm Hills,October City,Egypt,29.994081000000001,31.043652999999999,1,08-25-05
+305234,Intersection Mall,شارع مصطفى عبد السميع,October City,Egypt,29.9963760000000,31.05158600000000,1,10-14-24
+305233,NewGiza Golf,NewGiza,October City,Egypt,30.007864999999999,31.05588900000000,1,08-25-05
+305232,NewGiza Club,شارع كلوب,October City,Egypt,30.004897000000000,31.065626000000002,1,08-25-05
+305231,New Giza Bricklane,شارع كلوب,October City,Egypt,30.006869999999999,31.06608400000000,1,08-25-05
+305230,Chillout Pyramids Gardens 2,الطريق الدائري,October City,Egypt,29.998063999999999,31.097538000000000,4,10-14-24
+305229,A1 Katameya,طريق العين سخنة القديم,New Cairo,Egypt,29.977239999999998,31.358249000000001,3,12-13-24
+305228,Chillout El Nakhil,محور الشهيد,Mokattam,Egypt,29.984123000000000,31.356507000000001,1,10-14-24
+305227,Chillout El Kafrawy,محور حسب الله الكفراوى,Mokattam,Egypt,29.98970500000000,31.329308000000001,1,10-14-24
+305226,Chillout Autostrad 1,Ring RD,Maadi,Egypt,29.9924960000000,31.285050999999999,1,10-14-24
+305225,Chillout Autostrad 2,طريق النصر,Maadi,Egypt,29.992863000000000,31.28311500000000,4,10-14-24
+305224,Uptown Cairo Carrefour,Unknown,Mokattam,Egypt,30.018215999999999,31.29886700000000,1,10-14-24
+305223,Uptown Cairo Clubhouse,Unknown,Mokattam,Egypt,30.022296000000001,31.299308000000000,1,10-14-24
+305222,Uptown Cairo Sports Center,طريق اب تاون كايرو,Mokattam,Egypt,30.024308999999999,31.28780700000000,1,10-14-24
+305221,Chillout Ferdoos 3,شارع الفردوس,Abasseya,Egypt,30.05603100000000,31.27970100000000,1,10-14-24
+305220,Eni Abaseya,امتداد شارع رمسيس,Abasseya,Egypt,30.065211999999999,31.29541200000000,1,10-14-24
+305219,Co-op Salah Salem,شارع صلاح سالم,Masr El Gedida,Egypt,30.076730999999999,31.311919000000000,1,10-14-24
+305186,Chillout Dokki,شارع نادي الصيد,Dukki,Egypt,30.04339200000000,31.211224000000001,4,10-17-24
+305185,Sheraton Cairo 1,نفق العجوزه,Dukki,Egypt,30.038913999999998,31.22018300000000,1,08-25-05
+305184,Sheraton Cairo 2,نفق العجوزه,Dukki,Egypt,30.039300999999998,31.22009000000000,1,08-25-05
+305183,Conrad Cairo (Sofitel basement parking),شارع المطبعه الاميريه,Shubra,Egypt,30.06557700000000,31.227910000000001,1,08-15-25
+305182,Misr El Manara,شارع سكه الوايلي,Shubra,Egypt,30.090381000000001,31.282644000000001,1,10-14-24
+305181,Chillout Saad El Shazly,الطريق الدائري,Masr El Gedida,Egypt,30.12946700000000,31.463173999999999,4,10-14-24
+305180,Chillout Gesr El Suez,Gesr El Suez,Masr El Gedida,Egypt,30.13941300000000,31.39394200000000,1,10-14-24
+305179,Chillout El Salam,الطريق الدائري,El Salam,Egypt,30.14952200000000,31.418410000000002,1,10-14-24
+305178,Town Center,الطريق الدائري,El Salam,Egypt,30.14896900000000,31.420373000000001,4,10-14-24
+305177,AGM Obour 1,"طريق القاهرة, الاسماعيليه الصحراوي",Obour,Egypt,30.170093999999999,31.506636000000000,4,02-25-05
+305176,AGM Obour 2,Ismailia Desert RD,Obour,Egypt,30.171924000000001,31.507127000000001,1,02-25-05
+305175,Chillout Obour 2,"طريق القاهرة, الاسماعيليه الصحراوي",Obour,Egypt,30.164432999999999,31.484567999999999,4,01-25-02
+305174,Chillout Obour 1,محور العبور,Obour,Egypt,30.179435000000002,31.472398999999999,1,10-14-24
+305173,Cillout Obour 3,شارع 100,Obour,Egypt,30.19566400000000,31.459586000000002,1,10-14-24
+305119,Chillout Rock-C Plaza,شارع الخليفه المأمون,Masr El Gedida,Egypt,30.09146300000000,31.311695000000000,1,10-13-24
+305118,Chillout Souk El Khamis,Unknown,Heliopolis,Egypt,30.118438999999999,31.303159000000001,1,10-13-24
+305117,Chillout Mostorod,شارع الحريه,Heliopolis,Egypt,30.129387999999999,31.29499100000000,1,10-13-24
+305116,Chillout Merryland,شارع جسر السويس,Masr El Gedida,Egypt,30.099069000000000,31.31550300000000,1,10-13-24
+305115,City Stars 1 (Basement Parking B1 N),شارع الامداد و التموين,Madinet Nasr,Egypt,30.073550999999998,31.346060000000001,1,12-28-24
+305114,City Stars 2 (Basement Parking -3 Q),شارع الامداد و التموين,Madinet Nasr,Egypt,30.074041999999999,31.344066999999999,1,12-28-24
+305113,Petra Gate Mall,شارع الشهيد كمال الفسخاني,Masr El Gedida,Egypt,30.08938900000000,31.347890000000000,1,10-13-24
+305112,City Center Almaza,"طريق القاهرة, السويس",Masr El Gedida,Egypt,30.080673000000001,31.364304000000001,1,12-22-24
+305111,Chillout El Sa'aqa,شارع الصاعقه,Masr El Gedida,Egypt,30.09095100000000,31.37646200000000,1,10-13-24
+305110,Chillout Gardenya,"طريق القاهرة, السويس",Madinet Nasr,Egypt,30.079975999999998,31.39747000000000,1,10-13-24
+305109,Taj Sultan,TajbSultan,Madinet Nasr,Egypt,30.060483000000001,31.409673000000002,1,02-25-05
+305108,Park Residence,Suez RD,Madinet Nasr,Egypt,30.070962999999999,31.41075800000000,1,02-25-05
+305107,Chillout Airport,"طريق القاهرة, السويس",Masr El Gedida,Egypt,30.079858999999999,31.432703000000000,1,10-13-24
+305106,Chillout El Rehab,محور محمد نجيب,New Cairo,Egypt,30.07216000000000,31.474178999999999,1,10-13-24
+305105,Chillout Sadat 2,محور السادات,New Cairo,Egypt,30.05390800000000,31.467941000000000,4,03-25-01
+305104,Chillout Sadat 1,محور السادات,New Cairo,Egypt,30.053284000000001,31.468496999999999,1,10-13-24
+305103,Garden 8,شارع صلاح الدين عبد الكريم,New Cairo,Egypt,30.046071000000001,31.48382500000000,2,11-26-24
+305102,Wataniya Waha,محور المشير محمد على فهمي,Unknown,Egypt,30.043690999999999,31.381160000000001,1,10-13-24
+305101,Chillout El Moshir,محور المشير طنطاوى,New Cairo,Egypt,30.019984999999998,31.38131300000000,1,10-13-24
+305100,Chillout Triumph,الطريق الدائري,New Cairo,Egypt,30.006423999999999,31.400098000000000,3,10-17-24
+305099,The Drive By Waterway,الطريق الدائري,New Cairo,Egypt,30.00946700000000,31.40071500000000,1,10-13-24
+305098,Down Town Katameya,محور العروبة,New Cairo,Egypt,30.017213999999999,31.412476999999999,1,10-13-24
+305097,Dusit Hotel,شارع التسعين الجنوبي الجانبى,New Cairo,Egypt,30.02571000000000,31.45445500000000,1,02-25-05
+305096,Chillout N90,North 90 ST,New Cairo,Egypt,30.02876600000000,31.46776100000000,1,10-13-24
+305095,The NOX,North 90 ST,New Cairo,Egypt,30.028368000000000,31.47941500000000,1,10-13-24
+305094,Mobil Concord Plaza,South 90 ST,New Cairo,Egypt,30.022575000000000,31.47970400000000,1,10-13-24
+305093,90 Avenue,South 90 ST,New Cairo,Egypt,30.023413999999999,31.492176000000001,1,10-13-24
+305092,Lulu Hypermarket Parking / Nyoum New Cairo,شارع التسعين الشمالى,New Cairo,Egypt,30.028077000000000,31.496288000000000,1,10-19-24
+305091,Chillout AUC,شارع التسعين الجنوبي,New Cairo,Egypt,30.0250200000000,31.499988999999999,4,10-17-24
+305090,Chillout Lotus,شارع التسعين الشمالى,New Cairo,Egypt,30.030407000000000,31.503933000000000,1,10-13-24
+305089,Palm Hills Katameya 1,شارع ميفيدا,New Cairo,Egypt,30.031839000000002,31.537541999999998,1,02-25-05
+305087,Mivida Greens Club,شارع ميفيدا,New Cairo,Egypt,30.010738000000000,31.545197999999999,1,02-25-05
+305086,Mivida Avenues Club,Mivida,New Cairo,Egypt,29.99924500000000,31.538743000000000,1,02-25-05
+305082,Administrative Capital District 1 (High Education Min.),Unknown,Administrative Capital,Egypt,30.016131000000001,31.74064500000000,1,02-25-05
+305081,Sarai FB (Community Management Center),Middle Ring RD,Sarai,Egypt,30.087900999999999,31.709771000000000,1,02-25-05
+305080,Sarai S2,Middle Ring RD,Sarai,Egypt,30.09931100000000,31.704086000000000,1,02-25-05
+305079,Sarai S1,Middle Ring RD,Sarai,Egypt,30.09138300000000,31.703541999999999,1,02-25-05
+305078,Palm Hills Capital Gardens,Middle Ring RD,Shrouk,Egypt,30.08719700000000,31.695443000000001,1,02-25-05
+305077,Chillout Int'l Medical Center,Ismailia Desert RD,Cairo,Egypt,30.207692999999999,31.67346100000000,4,11-29-24
+305076,Palm Hills New Cairo,Middle Ring RD,New Cairo,Egypt,30.05711400000000,31.60117400000000,1,02-25-05
+305075,Chillout Madinaty,"طريق القاهرة, السويس",Sohrouk,Egypt,30.10388800000000,31.601400000000002,4,10-17-24
+305073,Chillout Assyut 2,"طريق القاهرة, اسوان الصحراوى الشرقى",Assyut,Egypt,27.26145400000000,31.279470000000000,1,12-24-10
+305072,Chillout Assyut 1,شارع احمد حسن الباقوري,Assyut,Egypt,27.203158999999999,31.18531200000000,1,12-24-10
+305071,CPC Aswan,شارع السماد بحرى,صالح جاهين,Egypt,24.101436000000000,32.90259700000000,1,12-24-10
+305070,"Somabay, Mesca","Somabay, Mesca",Somabay,Egypt,26.86454200000000,33.96956500000000,1,12-24-10
+305069,Ein Bay,Ein Bay Resort,Ein Bay,Egypt,29.72272300000000,32.38539200000000,1,12-24-10
+305068,Chillout Ismaillia,طريق الجيش,Ismaillia,Egypt,30.577178000000000,32.26033600000000,1,12-24-10
+305058,CPC Sharm,طريق المدخل الرئيسى لشرم الشيخ,Sharm El Sheikh,Egypt,27.858395999999999,34.26831700000000,4,11-26-24
+305057,Sharm Port,شارع محمد اليمانى,Sharm El Sheikh,Egypt,27.855208999999999,34.28896300000000,1,12-24-10
+305056,Gastec Sharm,Unknown,Sharm El Sheikh,Egypt,27.864266000000001,34.295535000000001,1,12-24-10
+305055,Misr El Hadaba,شارع نادى الرياضات البحريه,Sharm El Sheikh,Egypt,27.85438100000000,34.302382999999999,1,12-24-10
+305054,Fares Sharm,شارع شرم ليزيه,Sharm El Sheikh,Egypt,27.862791000000001,34.30462100000000,1,12-24-10
+305053,El Fanar Sharm,شارع الفنار,Sharm El Sheikh,Egypt,27.848357000000000,34.315660000000001,1,12-24-10
+305052,Gastec Ruwaysat,شارع الروستات,Unknown,Egypt,27.902251000000000,34.286748000000003,1,12-24-10
+305051,Carrefour Sharm,طريق السلام,Sharm El Sheikh,Egypt,27.889816000000000,34.30496200000000,1,12-24-10
+305050,Sharm Haloumi,طريق السلام,Sharm El Sheikh,Egypt,27.907170000000001,34.3143570000000,1,12-24-10
+305049,Sharm Naama Bay,شارع جلالة الملك حمد بن عيسي ال خليفه,Unknown,Egypt,27.907895000000000,34.32572800000000,1,12-24-10
+305048,Sharm Sunny Lakes,طريق السلام,Unknown,Egypt,27.92487300000000,34.34383400000000,1,12-24-10
+305047,Chillout Sharm,طريق السلام,Sharm El Sheikh,Egypt,27.936344999999999,34.35422500000000,4,11-26-24
+305046,Misr Sharm,الطريق الدائري,Sharm El Sheikh,Egypt,27.976699000000000,34.34134000000000,1,12-24-10
+305045,Mobile Sharm Airport,طريق السلام,Sharm El Sheikh,Egypt,27.966411999999998,34.36178800000000,4,11-26-24
+305044,Sharm Soho,شارع الشيخ زايد,Sharm El Sheikh,Egypt,27.962831000000001,34.391266999999999,1,12-24-10
+305042,Sharm Amwaj,طريق السلام,Sharm El Sheikh,Egypt,28.036187000000002,34.43129400000000,4,11-26-24
+305041,Sharm La Strada,طريق السلام,Sharm El Sheikh,Egypt,28.044483000000000,34.42996500000000,2,12-24-10
+305040,Meridien Dahab,شارع التحرير,Dahab,Egypt,28.47103000000000,34.478147000000000,1,12-24-10
+305007,Chillout CFC / Ring RD,"Ring RD, Opposite To CFC",Unknown,Egypt,30.026271999999999,31.401478999999998,4,10-17-24
+304935,Somabay Marina,Somabay,Somabay,Egypt,26.850076000000001,33.98530200000000,4,12-31-24
+304594,"CFC, Near Emarat Misr",الطريق الدائري,New Cairo,Egypt,30.032733000000000,31.404304000000000,1,10-25-01
+304543,IKEA Outdoor Parking/CFC,الطريق الدائري,Unknown,Egypt,30.029646000000000,31.406973000000001,1,09-24-11
+304534,Starbucks HydeOut,Hyde Park,Unknown,Egypt,29.977217000000000,31.542707000000000,2,08-21-25
+303690,ENI/Gas Tech,شارع القنال,Zohor,Egypt,31.260130000000000,32.28042600000000,1,08-30-24
+303388,Stella Walk / Sha7en,الطريق الساحلى الدولى,Sidi Abdel Rahman,Egypt,30.95537900000000,28.76810800000000,3,10-15-24
+302556,Fouka Bay / Club House Parking,211 International Coastal RD,Ras El Hikma,Egypt,31.089286999999999,27.937138999999998,1,06-19-25
+302555,Seashore by Hyde Park,International Coastal RD,Ras El Hikma,Egypt,31.07846300000000,27.95337100000000,2,04-17-25
+302547,El Marasem Fifth Square Station 2,North Tesen St,New Cairo,Egypt,30.049598000000000,31.537604000000002,1,04-24-25
+302546,Sombay Mesca 3,Mesca,Somabay,Egypt,26.866589000000001,33.96542800000000,1,10-16-24
+302535,Mangroovy El Gouna,Amr Khalil St,Gouna,Egypt,27.416181999999999,33.6708620000000,2,11-26-24
+302534,Swan Lake - EV 14,Swan Lake,Gouna,Egypt,27.40440500000000,33.6605330000000,2,11-26-24
+302533,Fuel Up Taameer Axis,International Coastal RD,Borg El Arab,Egypt,31.045366000000001,29.705985999999999,2,11-26-24
+302532,Hilton Corniche Alexandria,شارع خالد بن الوليد,Miami,Egypt,31.26178900000000,29.983813999999999,1,02-15-25
+302516,Watniya Port Said-Ismailia RD,Ismailia-Port Said DR,Port Said,Egypt,31.223053000000000,32.29694300000000,2,10-22-24
+302505,Wataniya Sokhna RD,"طريق القطامية, العين السخنه",Suez,Egypt,29.686874000000000,32.18914200000000,2,11-22-24
+302504,Elsewedy University of Technology,Ismailia RD,10th of Ramadan,Egypt,30.232240999999998,31.705476000000001,2,11-26-24
+302503,Mall of Arabia,Gamal Abd Al Naser St,October City,Egypt,30.01032200000000,30.978065000000001,2,11-26-24
+302502,A1 Station - Zahraa El Maadi,شارع الخمسين,Maadi,Egypt,29.967858000000000,31.313306000000001,1,10-30-24
+302501,City Stars (Basement Parking -3 N),Omar Ibn El Khattab St,Nasr City,Egypt,30.073899999999998,31.344498000000002,3,12-28-24
+302500,Smash Sporting Club,Cairo Internation Airport,Cairo,Egypt,30.1198070000000,31.400538000000001,2,02-25-05
+302487,Wataniya Al Ghaba A'Shagareya,Mohammed Ali Fahmy Axis,Madinet Nasr,Egypt,30.016349000000002,31.366848000000001,3,11-26-24
+302486,CFC Podium 4,Cairo Festival City,New Cairo,Egypt,30.021889999999999,31.406131999999999,2,06-29-25
+302485,The Knowledge Hub - Coventry University,محور الشيخ محمد بن زايد الجنوبي,Unknown,Egypt,30.017009000000002,31.73468000000000,1,02-25-05
+302484,ACUD,Government District,New Capital,Egypt,30.01646100000000,31.73829000000000,2,11-23-24
+302483,The Square - Zone M,Mahmoud Hamdan Axis,New Cairo,Egypt,29.999355999999999,31.552564000000000,1,02-25-05
+302482,Agora Mall (Basement Parking),El Nasr,New Cairo,Egypt,30.021145000000001,31.529350999999998,1,12-28-24
+302414,Mivida - P10 - 7A,Mividia,New Cairo,Egypt,30.004721000000000,31.53525700000000,1,02-25-05
+302401,Wataniya El Rehab,محور التحرير,New Cairo,Egypt,30.043657000000000,31.495933999999998,3,04-25-06
+302169,Fouka Bay / Golf Cart Parking,211 Int'l Coastal Rd,Ras El Hikma,Egypt,31.09060000000000,27.9393770000000,2,09-25-05
+301929,Il Monte Galala (Mosque Parking),Il Monte Galala,Ain Sokhna,Egypt,29.499601999999999,32.40707800000000,2,05-24-25
+301928,Concord Plaza,شارع التسعين الجنوبي,New Cairo,Egypt,30.02484100000000,31.48278100000000,1,11-23-24
+301927,WYTE Beach,"Somabay, WYTE Beach",Somabay,Egypt,26.85695200000000,33.979067999999998,1,04-23-25
+301926,"Somabay, Marina","Somabay, Marina",Somabay,Egypt,26.850296000000000,33.98557900000,1,04-23-25
+301632,Ikarus Al Alamein,الطريق الساحلى الدولى,Alamein,Egypt,30.86554,28.92738,4,05-16-25
+301631,Grand Ocean Hotel (Breeze Café),Sokhna,Unknown,Egypt,29.36235,32.57255,2,04-17-25
+300113,7 Stars Mall - Sadat City,شارع عمرو بن العاص,Sadat City,Egypt,30.37265,30.50089,3,04-17-25
+299480,Al-Banafseg Station,شارع دكتور احمد عكاشه,Unknown,Egypt,30.05711,31.46819,3,04-17-25
+299479,Zaafarana Rest House,"طريق الزعفرانه, رأس غارب",Unknown,Egypt,29.09983,32.64772,2,04-17-25
+299478,Ras Sedr - Matarma Beach Residence,Matarma Beach Resort,Ras Sedr,Egypt,29.44193,32.76467,3,04-17-25
+299477,Green Plaza,شارع 14 مايو,Alexandria,Egypt,31.2081,29.96429,3,04-17-25
+299476,Hilton King's Ranch,"طريق برج العرب, العامريه الجانبي",Unknown,Egypt,30.98264,29.69241,2,04-17-25
+299475,Sky-Mall North Coast,North Coast,Unknown,Egypt,30.99,28.68067,2,03-25-08
+297600,Chillout Mohamed Naguib,محور محمد نجيب,New Cairo,Egypt,29.9914880,31.4692730,4,10-17-24
+297599,Chillout El Sokhna Master 1,"طريق القطامية, العين السخنه",Kattameya,Egypt,29.96095200000000,31.45535800000000,4,11-22-24
+297519,Aladawy International Coastal Station,الطريق الساحلى الدولى,Unknown,Egypt,31.42427600000000,31.538038000000000,4,04-17-25
+297518,El Mahalla - El Mansoura Road,الطريق الدائري,Unknown,Egypt,30.99733,31.27803,2,04-17-25
+291258,Swell Lake Zayed,Waslet Dahshour RD,October City,Egypt,29.989671000000001,30.997102999999999,2,04-17-25
+290751,Chillout Ras El Hekma 1,Ras El Hekma,Ras El Hikma,Egypt,31.101222000000000,27.850055999999999,4,10-15-24
+290750,Chillout Hacienda,Hacienda,Matrouh,Egypt,30.998971999999998,28.647167000000000,4,01-25-08
+290749,Chillout Marassi,Marassi,Matrouh,Egypt,30.97375,28.735389000000001,4,05-16-25
+290748,Watanya Alamein 3,طريق البترول,Matrouh,Egypt,30.8505,28.768916999999998,4,10-23-24
+290747,Watanya Alamein 1,الطريق الساحلى الدولى,Matrouh,Egypt,30.885000000000002,28.86116700000000,4,10-15-24
+290746,Chillout Alamein 3,الطريق الساحلى الدولى,Matrouh,Egypt,30.870556000000001,28.879,4,10-15-24
+290745,Chillout Alamein 1,Alamein,Matrouh,Egypt,30.84875,28.918056000000000,3,10-15-24
+290744,Watanya Borqan 2,"طريق وادى النطرون, العلمين",Alameen,Egypt,30.676167000000000,29.293472000000001,4,11-26-24
+290743,Chillout El Hamam,El Hamam,Matrouh,Egypt,30.90063900000000,29.413778000000001,4,10-15-24
+290742,Chillout K21 (Agamy),Agamy,Alexandria,Egypt,31.065417000000000,29.769221999999999,4,10-15-24
+290741,Mcdonald's Amerya,"طريق القاهرة, الاسكندرية الصحراوي",Alexandria,Egypt,31.03125,29.78538900000000,3,10-15-24
+290740,Chillout Rest House,"طريق القاهرة, الاسكندرية الصحراوي",Sadat,Egypt,30.3925,30.377222000000000,3,10-24-12
+290739,OLA Sahrawy,"طريق القاهرة, الاسكندرية الصحراوي الجانبي",Sadat City,Egypt,30.30575,30.5635,3,11-26-24
+290738,Chillout El Wahaa 1,"طريق القطامية, العين السخنه",Ain Sokhna,Egypt,29.80602800000000,31.895194000000000,3,11-26-24
+290737,Chillout El Wahaa 2,"طريق القطامية, العين السخنه",Ain Sokhna,Egypt,29.805306000000002,31.89686100000000,3,07-25-25
+290736,Chillout El Galala,طريق الجلالة,Ain Sokhna,Egypt,29.641193999999999,32.22786100000000,3,11-26-24
+290735,Chillout Zafarana,"طريق الزعفرانه, رأس غارب",Unknown,Egypt,29.097667000000001,32.64575,4,11-26-24
+290734,Mobil Ras Ghareb,"طريق راس غارب, الغردقة",Unknown,Egypt,28.33972200000000,33.05986100000000,2,04-25-10
+290733,El Gouna Gourmet,El Gouna,Gouna,Egypt,27.39913900000000,33.66375,4,09-25-02
+290732,El Gouna Sports District,شارع محمد ابراهيم كمال,Gouna,Egypt,27.398416999999998,33.67066700000000,4,09-25-02
+290422,Co-op Gas Station,"طريق نخل, صدر الحيطان",Ras Sedr,Egypt,30.03211100000000,32.62925,2,10-15-24
+290421,Distribution Office (Parking),New Admin Capital,Unknown,Egypt,30.009746000000000,31.744717999999999,1,02-25-05
+290420,FUEL UP Gas Station Police Academy,محور مصطفى كامل الجانبى,New Cairo,Egypt,30.049582999999998,31.44161100000000,4,11-26-24
+290419,Water Park Walkway,طريق وصله دهشور,October City,Egypt,30.001667000000001,30.987472000000000,3,11-15-24
+290418,OLA Energy Sadat,"طريق القاهرة, الاسكندرية الصحراوي الجانبي",Unknown,Egypt,30.339805999999999,30.487417000000001,4,09-24-02
+290402,Rally Motors - IKARUS,شارع 5,Unknown,Egypt,29.918523000000000,30.911591000000001,2,04-17-25
+290401,Government District (Monorail Station Parking),"New Administrative Capital, Cairo Governorate Desert, Cairo Governorate",New Capital,Egypt,30.009359000000000,31.745066999999999,2,04-17-25
+290400,El-Obour Charging station (ID Store),"طريق مصر, Ismailia Desert Rd, Ismailia Governorate, Cairo Governorate 11828",Obour,Egypt,30.160616000000001,31.462727000000001,2,04-17-25
+290397,Misr Petrol Gas Station,شارع الأصبهانى,Unknown,Egypt,30.01025900000000,31.435911000000001,2,04-17-25
+290396,Hilton King's Ranch,"طريق برج العرب, العامريه الجانبي",Alexandria,Egypt,30.98222200000000,29.69286100000000,1,01-25-02
+,,,,,,,,
+
