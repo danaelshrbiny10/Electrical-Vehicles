@@ -7,40 +7,12 @@ from helpers.config import get_settings
 settings = get_settings()
 
 
-# async def fetch_nearby_stations(lat: float, lon: float, max_results=5):
-#     url = "https://api.openchargemap.io/v3/poi/"
-
-#     params = {
-#         "key": settings.OPENCHARGEMAP_API_KEY,
-#         "latitude": lat,
-#         "longitude": lon,
-#         "maxresults": max_results,
-#         "distance": 20,
-#         "distanceunit": "KM"
-#     }
-
-#     async with httpx.AsyncClient() as client:
-#         resp = await client.get(url, params=params)
-#         data = resp.json()
-
-#     stations = []
-#     for s in data:
-#         stations.append(
-#             StationInfo(
-#                 name=s.get("AddressInfo", {}).get("Title", "Unknown Station"),
-#                 lat=s.get("AddressInfo", {}).get("Latitude"),
-#                 lon=s.get("AddressInfo", {}).get("Longitude")
-#             )
-#         )
-
-#     return stations
-
 async def fetch_nearby_stations(lat: float, lon: float, max_results=5):
     url = "https://api.openchargemap.io/v3/poi/"
 
     headers = {
         "Content-Type": "application/json",
-        "X-API-Key": settings.OPENCHARGEMAP_API_KEY
+        "X-API-Key": settings.OPENCHARGEMAP_API_KEY,
     }
 
     params = {
@@ -48,7 +20,7 @@ async def fetch_nearby_stations(lat: float, lon: float, max_results=5):
         "longitude": lon,
         "maxresults": max_results,
         "distance": 20,
-        "distanceunit": "KM"
+        "distanceunit": "KM",
     }
 
     async with httpx.AsyncClient() as client:
@@ -66,7 +38,7 @@ async def fetch_nearby_stations(lat: float, lon: float, max_results=5):
             StationInfo(
                 name=s.get("AddressInfo", {}).get("Title", "Unknown Station"),
                 lat=s.get("AddressInfo", {}).get("Latitude"),
-                lon=s.get("AddressInfo", {}).get("Longitude")
+                lon=s.get("AddressInfo", {}).get("Longitude"),
             )
         )
 
@@ -103,5 +75,5 @@ async def simulate_trip(data: SimulationRequest) -> SimulationResponse:
         end=data.end,
         charges=needs_charging,
         number_of_charges=num_charges,
-        stations=station_list
+        stations=station_list,
     )

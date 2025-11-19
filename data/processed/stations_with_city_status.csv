@@ -1,0 +1,470 @@
+ï»¿Station_ID,Station_Name,Address,City,Country,Lat,Lon,Num_Connections,Last_Updated,Avg_Distance_km,Status
+461960.0,Marassem Station 5,North 90,New Cairo,Egypt,30.052818,31.535319,1.0,08-25-10,7.08,é Free
+461816.0,U Venues (Basement Parking),Ring RD,New Cairo,Egypt,30.007681,31.402706,1.0,06-25-10,7.08,é Free
+461815.0,Chillout Ring RD,Ring RD,Katameya,Egypt,30.014969,31.400067,2.0,06-25-10,0.0,å Crowded
+461674.0,Azzurra Sahl Hasheesh,Hillcrest Ct,Sahl Hasheesh,Egypt,27.053008,33.897028,1.0,09-30-25,0.0,å Crowded
+461542.0,Total Zafarana,Al Zafarana - Ras Ghareb RD,Zafarana,Egypt,29.077245,32.627196,2.0,09-26-25,0.0,å Crowded
+461180.0,Wataniya Abou Redis 1,Sharm El Sheikh Int'l RD,South Sainai,Egypt,28.842937,33.22954,3.0,09-16-25,0.0,å Crowded
+461153.0,Wataniya Eyoun Moussa 1,Sharm El Sheikh Int'l RD,Ras Sedr,Egypt,29.835077,32.667362,3.0,09-15-25,44.48,é Free
+460620.0,Chillout Al Alamein,Int'l Coatal RD,Alameen,Egypt,30.879272,28.868498,2.0,09-25-25,31.92,é Free
+460619.0,Zahra Northed,Int'l Coastal RD,Sidi Abdel Rahman,Egypt,30.93135,28.792679,3.0,08-28-25,10.01,é Free
+460614.0,Watanya - New Capital,Ben Zayed Axis,New Capital,Egypt,30.013708,31.604091,2.0,08-29-25,4.77,é Free
+460610.0,Watanya Saharwy 2,Cairo-Alexandria RD,Sadat,Egypt,30.48476,30.262262,3.0,08-29-25,19.07,é Free
+460609.0,Watanya Sahrawy 1,Cairo-Alexandria RD,Sadat,Egypt,30.485319,30.263775,3.0,08-29-25,19.07,é Free
+460476.0,Dina Farms DC Station,Cairo-Alexandria RD,Sadat,Egypt,30.282689,30.607178,1.0,08-20-25,19.07,é Free
+460452.0,Regent's Park 2,El Nasr,New Cairo,Egypt,30.000797,31.508312,1.0,08-18-25,7.08,é Free
+460450.0,Regent's Park 1,El Nasr,New Cairo,Egypt,30.00098,31.510308,1.0,08-18-25,7.08,é Free
+460373.0,Garage (El Tahrir),Qasr El Nile,Cairo,Egypt,30.044997,31.234893,1.0,08-14-25,13.66,é Free
+460335.0,Mobile South 90,South 90 RD,New Cairo,Egypt,30.016035,31.517087,2.0,11-25-09,7.08,é Free
+460218.0,Mountain View Ras El Hekma/Market,Mountain View Ras El Hekma,Ras El Hekma,Egypt,31.077694,28.031046,1.0,03-25-08,4.15,é Free
+460206.0,Mountain View Ras El Hekma/Lighthouse,Mountain View Ras El Hekma,Ras El Hekma,Egypt,31.084499,28.031149,1.0,03-25-08,4.15,é Free
+460164.0,Water Way - The Drive 2,Bin Zayed Axis,New Cairo,Egypt,30.02644,31.543052,1.0,07-30-25,7.08,é Free
+460144.0,Chillout An Nubariyah,Cairo Alex Desert RD,Nubariya,Egypt,30.674462,30.077136,2.0,07-29-25,0.0,å Crowded
+459431.0,Master Rest House,Master Rest House Sahrawy,Unknown,Egypt,30.396306,30.373782,2.0,07-14-25,193.49,é Free
+459428.0,Ceaser Matcha,Int'l Coastal RD,Ras El Hekma,Egypt,31.07201,28.007828,1.0,10-25-07,4.15,é Free
+459427.0,Ceasar 1,Int'l Coastal RD,Ras El Hekma,Egypt,31.085772,28.007589,1.0,10-25-07,4.15,é Free
+459266.0,LaVista Bay,Int'l Coatal RD,Sidi Abdel Rahman,Egypt,31.07056,28.367244,1.0,03-25-07,10.01,é Free
+314002.0,GAYA Kids Area/Food Court,Int'l Coatal RD,Ras El Hekma,Egypt,31.073914,28.084484,1.0,02-25-08,4.15,é Free
+314001.0,GAYA Beach/Kynd Entrance,Int'l Coatal RD,Ras El Hekma,Egypt,31.084772,28.081964,1.0,03-25-08,4.15,é Free
+313982.0,Sheraton Montazah Alexandria,El Geish RD,Alexandria,Egypt,31.281027,30.011355,1.0,06-17-25,19.34,é Free
+313927.0,Royal Beach Ras Sudr,Ras Sidr,Ras Sudr,Egypt,29.53775,32.727305,1.0,06-16-25,0.0,å Crowded
+313012.0,Aeon Residential Station 1,Gamal Abdel Nasser St ,October,Egypt,30.00419,30.967567,1.0,02-25-08,5.68,é Free
+312966.0,Heliopolis 3,Badr,Badr,Egypt,30.134241,31.672697,1.0,05-31-25,2.29,è Medium
+312965.0,Heliopolis 2,Badr,Badr,Egypt,30.138361,31.679631,1.0,05-31-25,2.29,è Medium
+312964.0,Heliopolis 1,Badr,Badr,Egypt,30.113823,31.693618,1.0,05-31-25,2.29,è Medium
+312925.0,"Mokattam, El Naser Housing Parking",Abdel Mageed Mahmoud Axis,Cairo,Egypt,30.016173,31.293934,2.0,06-14-25,13.66,é Free
+312662.0,El Nassea Group,Boustan Street,Obour,Egypt,30.257628,31.460596,3.0,05-17-25,8.59,é Free
+312622.0,Chillout Sadat,Cairo-Alexandria Desert RD,Sadat,Egypt,30.392662,30.377102,2.0,05-14-25,19.07,é Free
+312621.0,OLA Sahrawy,Cairo-AlexandriaRD,Saday,Egypt,30.305577,30.56382,2.0,05-14-25,0.0,å Crowded
+311935.0,Blumar Sidi AbdelRahman Station,Int'l Coatal RD,Sidi AbdelRahman,Egypt,30.994924,28.672172,1.0,09-25-06,6.33,é Free
+311934.0,Blumar Sidi AbdelRahman Station 2,Int'l Coatal RD,Sidi AbdelRahman,Egypt,30.99901,28.672199,1.0,09-25-06,6.33,é Free
+311933.0,Wadi Degla Blumar El Doom Station 1,Hurghada Cairo RD,Ain Sokhna,Egypt,29.438019,32.497136,1.0,04-24-25,29.03,é Free
+311932.0,Wadi Degla Blumar El Doom Station 2,Hurghada Cairo RD,Ain Sokhna,Egypt,29.434241,32.497799,1.0,04-24-25,29.03,é Free
+311931.0,Wadi Degla Murano Station 1,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.591661,32.338666,1.0,04-24-25,29.03,é Free
+311930.0,Wadi Degla Murano Station 2,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.592627,32.338702,1.0,04-24-25,29.03,é Free
+311929.0,Wadi Degla Blumar Station 2,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.746402,32.395489,1.0,04-24-25,29.03,é Free
+311928.0,Wadi Degla Blumar El Sokhna Station 1,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.744389,32.398426,1.0,04-24-25,29.03,é Free
+311927.0,Wadi Degla Marina Station 2,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.717636,32.381078,1.0,04-24-25,29.03,é Free
+311926.0,Wadi Degla Marina Station 1,Ismailia Hurghada RD,Ain Sokhna,Egypt,29.720487,32.376419,1.0,04-24-25,29.03,é Free
+311925.0,Al-Borouj Business Park 2,Cairo Ismailia RD,New Heliopolis,Egypt,30.20693,31.674079,1.0,04-24-25,0.05,å Crowded
+311924.0,Al-Borouj Business Park 1,Cairo Ismailia RD,New Heliopolis,Egypt,30.206695,31.673679,3.0,08-21-25,0.05,å Crowded
+311923.0,Mivida Eterna Health Care ,South 90 RD,New Cairo,Egypt,30.001059,31.53168,1.0,02-25-05,7.08,é Free
+311922.0,Wadi Degla Promenade Compound Station 2,Mohammed Naguib Axis,New Cairo,Egypt,29.983786,31.531043,1.0,04-24-25,7.08,é Free
+311921.0,Wadi Degla Promenade Compund Station 1,Mohammed Naguib Axis,New Cairo,Egypt,29.984915,31.529877,1.0,04-24-25,7.08,é Free
+311920.0,Marasem Fifth Square Station 4,El Nasr RD,New Cairo,Egypt,30.052798,31.537821,1.0,04-24-25,7.08,é Free
+311919.0,Marasem Club House,El Nasr Rd,New Cairo,Egypt,30.051331,31.536672,1.0,04-24-25,7.08,é Free
+311918.0,Amr El Howedi Office,South 90 RD,New Cairo,Egypt,30.01678,31.408432,1.0,04-24-25,7.08,é Free
+311917.0,CFC Mall - Gate 5,Ring RD,New Cairo,Egypt,30.026234,31.405774,1.0,04-24-25,7.08,é Free
+311916.0,CFC City - Living Compound,Ring RD,New Cairo,Egypt,30.032723,31.408943,1.0,04-24-25,7.08,é Free
+311915.0,CFC Mall - Kidzania,Ring RD,New Cairo,Egypt,30.031734,31.406381,1.0,04-24-25,7.08,é Free
+311888.0,Ezz Star - Mercedes Benz,Gamal Abdel Nasser St.,October City,Egypt,29.996499,30.953105,1.0,04-22-25,8.43,é Free
+311887.0,Americana Plaza - El Sheikh Zayed,Al Rawda St,October City,Egypt,30.027514,31.014173,1.0,08-25-05,8.43,é Free
+311831.0,OLA - Abis,Borg El Arab,Alexandria,Egypt,30.983272,29.683088,2.0,04-18-25,19.34,é Free
+311822.0,Wataniya - Sharm El Sheikh,Ibn Dina RD,Sharm El Sheikh,Egypt,27.903347,34.300469,1.0,04-17-25,10.98,é Free
+311742.0,Hydepark (C14),South 90 RD,New Cairo,Egypt,29.973784,31.5498,1.0,02-25-05,7.08,é Free
+311741.0,Hydepark (C21),South 90 RD,New Cairo,Egypt,29.975274,31.547071,1.0,03-25-05,7.08,é Free
+311708.0,Hydepark (HydeOut),South 90,New Cairo,Egypt,29.976598,31.544619,2.0,04-17-25,7.08,é Free
+311447.0,Oscar Grand Stores (Basement Parking/P1),North 90 RD,New Cairo,Egypt,30.027801,31.489103,1.0,03-31-25,7.08,é Free
+311398.0,Leven Square,Abdallah Ibn Salam St,New Cairo,Egypt,30.046183,31.485455,1.0,03-26-25,7.08,é Free
+311304.0,Sodic Eastown,South 90,New Cairo,Egypt,30.013038,31.515992,1.0,02-25-05,7.08,é Free
+309502.0,Arabella Plaza (Basement Parking),Gamal Abdel Nasser Rd,New Cairo,Egypt,29.990991,31.432138,2.0,04-25-05,7.08,é Free
+309485.0,Al Qa2ed Lel-A3laf,Mansoura,Unknown,Egypt,31.023947,31.399112,2.0,12-25-03,193.49,é Free
+309386.0,El Sharq Gas Station,El Wahat RD,October City,Egypt,29.949388,31.0918,3.0,09-25-03,8.43,é Free
+309179.0,Sodic - EDNC,South 90 RD,New Cairo,Egypt,30.015583,31.513371,1.0,03-25-03,7.08,é Free
+309011.0,Chillout El Shaheed 2,El Moshir Tantawy Axis,Cairo,Egypt,30.022531,31.329239,1.0,02-20-25,13.66,é Free
+309010.0,Chillout El Shaheed 1,Al Moshir Tantawy Axis,Cairo,Egypt,30.021224,31.32894,1.0,02-20-25,13.66,é Free
+309007.0,Uptown - Sierras,Uptown Cairo,Cairo,Egypt,30.017287,31.295599,1.0,02-20-25,13.66,é Free
+309006.0,Uptown - Fourteen,Uptown Cairo,Cairo,Egypt,30.028219,31.283045,1.0,02-20-25,13.66,é Free
+309005.0,Uptown - Fountain Side,Uptown Cairo,Cairo,Egypt,30.024592,31.289661,1.0,02-20-25,13.66,é Free
+308831.0,Four Seasons First Mall (4seasons -2),Charles de Gaulle,Giza,Egypt,30.024093,31.217489,1.0,04-22-25,0.0,å Crowded
+308784.0,Fit & Fix El Wahat RD,Wahat RD,October City,Egypt,29.95755,31.056043,4.0,02-21-25,8.43,é Free
+308567.0,Green Plaza Mall,14th of May St,Alexandria,Egypt,31.207966,29.964612,1.0,01-25-02,19.34,é Free
+308566.0,Maxim Mall (Basement Parking),Tahrir Axis,New Cairo,Egypt,30.029863,31.496451,3.0,03-25-05,7.08,é Free
+308565.0,Maxim Mall (Outdoor Parking),Tahrir Axis,New Cairo,Egypt,30.029691,31.496217,1.0,03-25-05,7.08,é Free
+308211.0,Ikarus New Suhag,Kawamel,Sohag,Egypt,26.43723,31.67581,2.0,04-17-25,0.0,å Crowded
+308047.0,Distribution Office (Parking),Government District,New Capital,Egypt,30.009914,31.744722,1.0,02-25-05,4.77,é Free
+308046.0,Government District (Monorail Station Parking),Government District,New Capital,Egypt,30.009365,31.744812,2.0,01-25-25,4.77,é Free
+308045.0,Goverment District (Monorail Station Parking),Government District,New Capital,Egypt,30.009404,31.745057,2.0,01-19-25,4.77,é Free
+307974.0,Al Rehab 2 / Ahmed Afifi Mosque Parking,Talaat Mostafa St,New Cairo,Egypt,30.05863,31.488137,2.0,04-19-25,7.08,é Free
+307973.0,Al Rehab 1 / Hesham Hosny Mosque Parking,Rehab,New Cairo,Egypt,30.070148,31.509533,2.0,04-19-25,7.08,é Free
+307903.0,Arkan Plaza (Basement Parking),Al Bostan St,October City,Egypt,30.020181,31.003657,1.0,01-13-25,8.43,é Free
+307902.0,Master Rest House (Fit & Fix),Cairo Alex Desert RD,Sadat City,Egypt,30.396298,30.373805,1.0,11-25-04,14.29,é Free
+307897.0,District 5,District 5,Kattameya,Egypt,29.954761,31.44985,1.0,01-13-25,0.61,å Crowded
+307837.0,Sodic Courtyard,Sodic West,October City,Egypt,30.071009,30.938287,1.0,08-25-05,8.43,é Free
+307836.0,Sodic Polygon,Sodic West,October City,Egypt,30.070631,30.946235,1.0,08-25-05,8.43,é Free
+307816.0,"CFC, Oriana Station",CFC,New Cairo,Egypt,30.030273,31.412207,1.0,04-24-25,7.08,é Free
+307713.0,Al Rehab 3 / Al Rahman Mosque Parking,Talaat Mostafa St,New Cairo,Egypt,30.064178,31.481287,2.0,04-19-25,7.08,é Free
+307517.0,El Marasem Fifth Square Station 1,North Tesen St,New Cairo,Egypt,30.048104,31.538626,1.0,04-24-25,7.08,é Free
+307510.0,Agora Mall (Outdoor Parking),Al Nasr,New Cairo,Egypt,30.02117,31.5287,1.0,12-28-24,7.08,é Free
+307434.0,5A by the Waterway (Basement Parking),Shouyfat,New Cairo,Egypt,30.008899,31.402516,1.0,12-25-24,7.08,é Free
+307386.0,Sodic Villette,Mivida St,New Cairo,Egypt,30.015275,31.546319,1.0,02-25-05,7.08,é Free
+307346.0,The Yard (Basement Parking/Fat'hallah Market),Sadat Axis,New Cairo,Egypt,30.053604,31.491794,3.0,12-27-24,7.08,é Free
+307208.0,Lake Plaza (King Mariout),Borg Al Arab Airport RD,Alexandria,Egypt,30.980893,29.65914,3.0,12-19-24,19.34,é Free
+307095.0,Mountain View HP 201,Mountain View Hyde Park,New Cairo,Egypt,29.983849,31.55399,1.0,02-25-05,7.08,é Free
+307094.0,Mountain View HP 186,Mountain View Hyde Park,New Cairo,Egypt,29.98409,31.554853,1.0,02-25-05,7.08,é Free
+307093.0,Mountain View HP 75,Mountain View Hyde Park,New Cairo,Egypt,29.985221,31.554681,1.0,02-25-05,7.08,é Free
+307092.0,Mountain View HP 70,Mountain View Hyde Park,New Cairo,Egypt,29.983973,31.556485,1.0,02-25-05,7.08,é Free
+307091.0,Mountain View HP Main Gate,Mountain View Hyde Park,New Cairo,Egypt,29.988503,31.559357,1.0,02-25-05,7.08,é Free
+307090.0,Mountain View HP 163,Mountain View Hyde Park,New Cairo,Egypt,29.990605,31.556324,1.0,02-25-05,7.08,é Free
+307089.0,Mountain View HP 14,Mountain View Hyde Park,New Cairo,Egypt,29.991894,31.554339,1.0,02-25-05,7.08,é Free
+307088.0,Mountain View HP 50,Mountain View Hyde Park,New Cairo,Egypt,29.990132,31.553651,1.0,02-25-05,7.08,é Free
+307087.0,Mountain View HP 142,Mountain View Hyde Park,New Cairo,Egypt,29.989386,31.552239,1.0,02-25-05,7.08,é Free
+306942.0,Heliopolis Club Sherouk Gate 3,4'19 E-E/ D7JA,Sherouk,Egypt,30.131251,31.616986,1.0,02-25-05,0.27,å Crowded
+306941.0,Heliopolis Club Sherouk Gate 2,4'19 E-E/ D7JA,Sherouk,Egypt,30.132748,31.614731,1.0,02-25-05,0.27,å Crowded
+306905.0,The Nile Ritz-Carlton Cairo,4'19 H3JE -3F,Cairo,Egypt,30.045862,31.231868,1.0,03-25-05,13.66,é Free
+306900.0,Hola (Marhaba),Atef Al Sadat St,Port Said,Egypt,31.271432,32.305179,1.0,03-25-05,3.71,é Free
+306899.0,Multistorey Parking (Level-1),Al Nasr St,Port Said,Egypt,31.259551,32.294847,1.0,12-27-24,3.71,é Free
+306742.0,Blue Blue (Khair Zaman Parking),"71JB 'D9JF 'D3.FG, 'D29A1'FG",Sokhna,Egypt,29.234344,32.622515,1.0,12-24-24,0.0,å Crowded
+306546.0,ETAPA Phase 1,Al Mustakbal RD,October City,Egypt,30.06857,30.972821,1.0,11-26-24,8.43,é Free
+306545.0,ETAPA Phase 1,Al Mustakbal RD,October City,Egypt,30.067557,30.973952,1.0,11-26-24,8.43,é Free
+306544.0,The Access (Outgoing and Sporting Gate),Al Zohour,October City,Egypt,30.027432,31.006022,1.0,11-26-24,8.43,é Free
+306543.0,Upville compund station,Waslet Dahshur,October City,Egypt,29.982677,31.009917,1.0,01-17-25,8.43,é Free
+306542.0,Vida Hotel - Marassi station,Marassi,Sidi AbdelRahman,Egypt,30.964978,28.761814,1.0,09-25-05,6.33,é Free
+306536.0,Swan Lake - EV 09,Swan Lake,Gouna,Egypt,27.405168,33.658703,2.0,11-26-24,1.53,è Medium
+306535.0,Swan Lake - EV 06,Swan Lake,Gouna,Egypt,27.406466,33.658775,2.0,11-26-24,1.53,è Medium
+306534.0,Swan Lake - EV 20,Swan Lake,Gouna,Egypt,27.406067,33.657479,2.0,11-26-24,1.53,è Medium
+306471.0,O West Whyt,O West,October City,Egypt,29.955134,30.990908,1.0,11-24-24,8.43,é Free
+306470.0,O West Tulwa,O West,October City,Egypt,29.962863,30.993892,1.0,11-24-24,8.43,é Free
+306458.0,Il Monte Galala - Flying Park,Il Monte Galala,Il Monte Galala,Egypt,29.498497,32.409664,2.0,11-24-24,0.0,å Crowded
+306433.0,Mivida - P43 - B5,Mivida,New Cairo,Egypt,30.002141,31.532642,1.0,02-25-05,7.08,é Free
+306432.0,Mivida - P43 - B8,Mivida,New Cairo,Egypt,30.003108,31.533591,1.0,02-25-05,7.08,é Free
+306431.0,Mivida - P10 - 3A,Mivida,New Cairo,Egypt,30.004556,31.53654,1.0,02-25-05,7.08,é Free
+306430.0,Mivida - P21 - C7,Mivida,New Cairo,Egypt,30.008259,31.539005,1.0,02-25-05,7.08,é Free
+306429.0,Mivida - P25,Mivida,New Cairo,Egypt,30.009546,31.535129,1.0,02-25-05,7.08,é Free
+306428.0,Mivida - P27,Mivida,New Cairo,Egypt,30.009831,31.535143,1.0,02-25-05,7.08,é Free
+306427.0,Mivida - P21 - C1,Mivida,New Cairo,Egypt,30.011218,31.537643,1.0,02-25-05,7.08,é Free
+306426.0,OLA - Mohamed Nagib Axis,E-H1 E-E/ F,J(,New Cairo,Egypt,29.975567,31.471748,3.0,07-24-12,7.08,é Free
+306412.0,Mivida P23 - B13,Mivida,New Cairo,Egypt,30.013588,31.532946,1.0,02-25-05,7.08,é Free
+306411.0,Mivida P23,Mivida,New Cairo,Egypt,30.014418,31.533525,1.0,02-25-05,7.08,é Free
+306306.0,Mivida - FM,4'19 EJAJ/',New Cairo,Egypt,30.017639,31.533596,1.0,11-21-24,7.08,é Free
+306305.0,The Square - Zone H,The Square,New Cairo,Egypt,29.995653,31.549874,1.0,02-25-05,7.08,é Free
+306304.0,City Center - Hurghada (-2),4'19 'D(-1,Hurghada,Egypt,27.256007,33.830122,3.0,12-19-24,0.14,å Crowded
+306303.0,City Center - Hurghada (-1),4'19 'D(-1,Hurghada,Egypt,27.256162,33.828974,1.0,12-19-24,0.14,å Crowded
+306302.0,Hilton - Hurghada,4'19 'D(-1,Hurghada,Egypt,27.257132,33.828509,1.0,11-21-24,0.14,å Crowded
+305761.0,Fuel Up - 6th October,'D71JB 'D/'&1J,October City,Egypt,29.999545,31.099505,3.0,06-24-12,8.43,é Free
+305595.0,Steigenberger Resort Station,4'19 /C*H1 E,/J J9BH(,Gouna,Egypt,27.390558,33.677139,1.0,10-22-24,1.53,è Medium
+305594.0,Sheraton Hotel Station,4'19 E-E/ '(1'GJE CE'D,Gouna,Egypt,27.404535,33.677698,1.0,10-22-24,1.53,è Medium
+305593.0,Movinpick Hotel Station,4'19 /C*H1 E,/J J9BH(,Gouna,Egypt,27.395612,33.683935,1.0,10-22-24,1.53,è Medium
+305592.0,Almaza Bay,Sidi Henish,Sidi Henish,Egypt,31.195059,27.555446,1.0,09-25-05,0.0,å Crowded
+305591.0,Wataniya Borqan 1,"71JB H'/I 'DF71HF, 'D9DEJF 'D,'F(I",Alameen,Egypt,30.676107,29.3088,3.0,01-25-08,31.92,é Free
+305590.0,Al Asiouty Sports Resort,"71JB 'DB'G1), '3JH7 'D5-1'HI 'D:1(I",Fayoum,Egypt,29.397672,31.112417,1.0,10-22-24,0.0,å Crowded
+305589.0,Makadi Heights Phase 2,Makadi,Makadi,Egypt,26.963988,33.891361,2.0,10-22-24,0.89,å Crowded
+305588.0,Makadi Heights Phase 1,Makadi,Makadi,Egypt,26.963701,33.882424,2.0,10-22-24,0.89,å Crowded
+305587.0,Trivium Mall - 5th Settlement,North 90 ST,New Cairo,Egypt,30.027211,31.477797,3.0,04-17-25,7.08,é Free
+305447.0,Chillout El Sokhna Master 2,"71JB 'DB7'EJ), 'D9JF 'D3.FG",Kattameya,Egypt,29.960028,31.45192,1.0,10-17-24,0.61,å Crowded
+305438.0,CPC Industrial Zone,4'19 32,October City,Egypt,29.940073,30.866485,1.0,10-16-24,8.43,é Free
+305437.0,Aeon Residential Station 2,Gamal Abdel Nasser ST,October City,Egypt,30.004988,30.969202,3.0,02-25-06,8.43,é Free
+305436.0,Mall Of Arabia Gate 19,4'19 ,E'D 9(/ 'DF'51,October City,Egypt,30.007621,30.972741,1.0,10-16-24,8.43,é Free
+305435.0,Mall Of Arabia Gate 2,E-H1 26 JHDJH,October City,Egypt,30.006543,30.977008,1.0,10-16-24,8.43,é Free
+305434.0,ZED West Residential Station,4'19 'D9(H1,October City,Egypt,30.048501,31.002384,1.0,08-25-05,8.43,é Free
+305433.0,Hyde Park Club House Station,Hyde Park,New Cairo,Egypt,29.986075,31.543944,1.0,02-25-05,7.08,é Free
+305432.0,Hyde Park - 7mart Station,Hyde Park,New Cairo,Egypt,29.971061,31.544139,1.0,10-16-24,7.08,é Free
+305431.0,Jayd Residential Station,Youssef El Sebai,New Cairo,Egypt,30.066213,31.52011,1.0,02-25-05,7.08,é Free
+305430.0,El Mostakbal City Pedal Club Station 1,'D71JB 'D/'&1J 'D#H37I 'D,'F(J,Mostakbal City,Egypt,30.04916,31.616436,1.0,10-16-24,0.0,å Crowded
+305429.0,One Ninety New Cairo,4'19 B'3E 'EJF,New Cairo,Egypt,30.015038,31.407502,1.0,10-16-24,7.08,é Free
+305428.0,Al Borouj Compund Sales Center,Obour,Obour,Egypt,30.199976,31.675002,1.0,10-16-24,8.59,é Free
+305427.0,Somabay Mesca,Mesca,Somabay,Egypt,26.864904,33.968799,1.0,10-16-24,1.57,è Medium
+305426.0,Marassi Mosque,Marassi,Sidi Abdel Rahman,Egypt,30.96333,28.757269,1.0,09-25-05,10.01,é Free
+305425.0,Marassi Social Club,Unknown,Sidi Abdel Rahman,Egypt,30.963932,28.756736,1.0,09-25-05,10.01,é Free
+305424.0,The Address Beach Hotel,'D71JB 'D3'-DI 'D/HDI,Sidi Abdel Rahman,Egypt,30.966567,28.764131,1.0,09-25-05,10.01,é Free
+305423.0,Marassi 4 Bfit,Unknown,Sidi Abdel Rahman,Egypt,30.974322,28.73885,1.0,10-16-24,10.01,é Free
+305422.0,Marassi North Beach 1,'D71JB 'D3'-DI 'D/HDI,Sidi Abdel Rahman,Egypt,30.982414,28.739662,1.0,09-25-05,10.01,é Free
+305421.0,Marassi Beach Club House,'D71JB 'D3'-DI 'D/HDI,Sidi Abdel Rahman,Egypt,30.977669,28.755301,1.0,09-25-05,10.01,é Free
+305420.0,Marassi North Beach 2,Marassi,Sidi Abdel Rahman,Egypt,30.982198,28.752793,1.0,09-25-05,10.01,é Free
+305418.0,Cleopatra NABAQ Hotel,71JB 'D3D'E,Sharm El Sheikh,Egypt,28.021861,34.435202,1.0,10-16-24,10.98,é Free
+305399.0,Shooting Club Dokki Gate 1,4'19 ECG,Dokki,Egypt,30.043424,31.201477,1.0,03-25-05,0.31,å Crowded
+305398.0,Shooting Club Dokki Gate 2,4'19 ECG,Dokki,Egypt,30.045582,31.200773,1.0,03-25-05,0.31,å Crowded
+305397.0,Shooting Club Dokki Gate 7,4'19 ECG,Dokki,Egypt,30.046251,31.203574,1.0,03-25-05,0.31,å Crowded
+305396.0,Shooting Club Dokki Gate 5,4'19 ECG,Dokki,Egypt,30.047756,31.201603,1.0,03-25-05,0.31,å Crowded
+305395.0,Gezira Sports Club,4'19 -3F 5(1J,Zamalek,Egypt,30.052663,31.223495,1.0,08-25-05,0.0,å Crowded
+305394.0,Nile City Towers,4'19 CH1FJ4 'DFJD,Down Town,Egypt,30.071801,31.22808,1.0,10-15-24,2.7,è Medium
+305393.0,World Trade Center,4'19 'DE7(9G 'D'EJ1JG,Down Town,Egypt,30.065386,31.228802,1.0,03-25-05,2.7,è Medium
+305392.0,Torgoman Bus Station,4'19 H'(H1 'D*1,E'F,Down Town,Egypt,30.05776,31.238562,1.0,10-15-24,2.7,è Medium
+305391.0,Al Azhar Park A,Royal Palm Promenade,Down Town,Egypt,30.042632,31.265935,1.0,10-15-24,2.7,è Medium
+305390.0,Triumph Plaza Hotel,4'19 '-3'F 9(/ 'DB/H3,Masr El Gedida,Egypt,30.085831,31.305642,1.0,10-15-24,6.12,é Free
+305389.0,Heliopolis Sporting Club,4'19 'D3D-/'1,Masr El Gedida,Egypt,30.088005,31.317858,1.0,10-15-24,6.12,é Free
+305388.0,Al Ahly SC Nasr City,71JB 'DF51,Madinet Nasr,Egypt,30.073395,31.358175,1.0,02-25-05,4.71,é Free
+305387.0,Radisson Blu Hotel,4'19 'D2GH1,Masr El Gedida,Egypt,30.106418,31.375026,1.0,02-25-05,6.12,é Free
+305386.0,Cairo Complex 1,4'19 'FB1G,Masr El Gedida,Egypt,30.109705,31.381323,1.0,02-25-05,6.12,é Free
+305385.0,Cairo Complex 2,4'19 'FB1G,Unknown,Egypt,30.110161,31.381762,1.0,02-25-05,193.49,é Free
+305384.0,Cairo Complex 1,El Nasr RD,Masr El Gedida,Egypt,30.109026,31.383044,1.0,02-25-05,6.12,é Free
+305383.0,A1 Zahraa 1,71JB 'DF51 'D,'FJI,Maadi,Egypt,29.975573,31.290255,1.0,10-15-24,3.19,é Free
+305382.0,A1 Zahraa 3,71JB 'DB'G1) 'D3HJ3,Maadi,Egypt,29.969528,31.334671,1.0,10-15-24,3.19,é Free
+305381.0,Shooting Club Kattamya 2,4'19 '(H (C1 'D5/JB,Mokattam,Egypt,29.98516,31.332232,1.0,02-25-05,3.81,é Free
+305380.0,Shooting Club Kattameya 1,4'19 '(H (C1 'D5/JB,Mokattam,Egypt,29.984646,31.332035,1.0,02-25-05,3.81,é Free
+305379.0,Pegasus Club (Security Gates),Dreamland,October City,Egypt,29.961551,31.048534,1.0,04-28-25,8.43,é Free
+305378.0,Capital Business Park,26 July Axis,October City,Egypt,30.025527,31.012938,1.0,02-25-05,8.43,é Free
+305376.0,Atrium Zayed,4'19 'D4('(,October City,Egypt,30.031789,31.000024,1.0,10-15-24,8.43,é Free
+305375.0,The Courtyard Zayed,El Mostakbal ST,October City,Egypt,30.042394,30.980073,1.0,08-25-05,8.43,é Free
+305374.0,Address Compound,El Salam ST,October City,Egypt,30.045486,30.979212,1.0,08-25-05,8.43,é Free
+305373.0,Shooting Club October Gate 4,'D*H39'* 'D4E'DJ),October City,Egypt,30.000121,30.947575,1.0,08-25-05,8.43,é Free
+305372.0,Shooting Club October Gate 3,4'19 ,E'D 9(/ 'DF'51,October City,Egypt,30.000645,30.950902,1.0,08-25-05,8.43,é Free
+305371.0,Shooting Club October Gate 1,4'19 ,E'D 9(/ 'DF'51,October City,Egypt,29.996539,30.951707,1.0,08-25-05,8.43,é Free
+305370.0,Mena Garden City,Naguib Mahfouz ST,October City,Egypt,29.990109,30.976347,1.0,08-25-05,8.43,é Free
+305369.0,City Park Walkway,Waslet Dahshour,Unknown,Egypt,30.017442,30.973487,1.0,10-15-24,193.49,é Free
+305368.0,City Walk Strip,71JB H5DG /G4H1,October City,Egypt,30.046134,30.950393,2.0,10-15-24,8.43,é Free
+305367.0,Al Ahly SC Sheikh Zayed Right,4'19 'DF2G),October City,Egypt,30.081061,30.97713,1.0,04-28-25,8.43,é Free
+305366.0,Al Ahly SC Sheikh Zayed Left,"71JB 'DB'G1), 'D'3CF/1J) 'D5-1'HJ 'D,'F(J",October City,Egypt,30.081073,30.976098,1.0,04-28-25,8.43,é Free
+305365.0,FRA,Smart Village,October City,Egypt,30.078322,31.014413,1.0,10-15-24,8.43,é Free
+305361.0,Triumph Luxury Hotel,4'19 'D%E'E E-E/ 9(/G,New Cairo,Egypt,30.003844,31.40167,1.0,05-31-25,7.08,é Free
+305360.0,Arabella Plaza (Basement Parking I2-I3),E-H1 ,E'D 9(/ 'DF'51,New Cairo,Egypt,29.991575,31.43199,1.0,08-25-02,7.08,é Free
+305359.0,OLA Energy Sawn Lake,Youssrf El Sebai Axis,New Cairo,Egypt,30.068727,31.467572,1.0,06-24-12,7.08,é Free
+305357.0,Oscan Grand Store (Basement Parking / P1),North 90 ST,New Cairo,Egypt,30.027888,31.489084,1.0,05-24-25,7.08,é Free
+305356.0,FP.ICON Boutique Mall,4'19 'D*39JF 'D,FH(J,New Cairo,Egypt,30.02607,31.495659,1.0,01-30-25,7.08,é Free
+305355.0,Platinum Club,4'19 'DF51,New Cairo,Egypt,30.03751,31.527206,1.0,02-25-05,7.08,é Free
+305354.0,Al Ahly SC New Cairo,E-H1 9('3 'D9B'/,New Cairo,Egypt,30.040377,31.552882,1.0,04-23-25,7.08,é Free
+305352.0,OLA Energy Al Sherouk,71JB '-E/ 91'(I,Shorouk,Egypt,30.109223,31.608921,1.0,10-15-24,1.43,è Medium
+305351.0,GRANDA Al Shorouk GYM,Shorouk,Shorouk,Egypt,30.12136,31.623563,1.0,02-25-05,1.43,è Medium
+305349.0,THE EDGE - EGYGAB,4'19 -D(,Shorouk,Egypt,30.119228,31.626186,1.0,02-25-05,1.43,è Medium
+305348.0,GRANDA Al Shorouk,Shrouk,Shrouk,Egypt,30.120272,31.62665,1.0,02-25-05,6.65,é Free
+305347.0,Wataniya Sherouk,Shrouk,Shrouk,Egypt,30.150784,31.645092,1.0,10-15-24,6.65,é Free
+305346.0,Madinaty B11,71JB 7D9* E57AI,Madinaty,Egypt,30.076542,31.658471,1.0,10-15-24,0.0,å Crowded
+305343.0,UofCanada,'D71JB 'D/'&1J 'D%BDJEJ,New Capital,Egypt,30.029258,31.713059,1.0,02-25-05,4.77,é Free
+305341.0,"Somabay, Wadi Jebal (Zone H)",Somabay,Somabay,Egypt,26.862,33.990778,1.0,10-15-24,1.57,è Medium
+305339.0,"Somabay, Wadi Jebal (Zone D)",Soma Ay,Somabay,Egypt,26.861652,33.992341,1.0,10-15-24,1.57,è Medium
+305338.0,"Sombay, Golf Town",Sombay,Somabay,Egypt,26.857857,33.992215,1.0,10-15-24,1.57,è Medium
+305337.0,Makadi Heights Mall,Makadi Bay,Makadi Bay,Egypt,26.963308,33.878486,1.0,10-15-24,0.0,å Crowded
+305336.0,Sayadeen Village,4'19 'D5J'/JF,Nuweiba,Egypt,28.971903,34.659242,3.0,10-15-24,18.31,é Free
+305335.0,Safari Beach Camp Nuweiba,"71JB FHJ(9, 7'('",Nuweiba,Egypt,29.167736,34.694435,1.0,10-15-24,18.31,é Free
+305334.0,Basta Village,"71JB FHJ(9, 7'('",Nuweiba,Egypt,29.207146,34.73473,1.0,10-15-24,18.31,é Free
+305333.0,Nekhel,Nekhel RD,Nekhel,Egypt,29.90935,33.744871,1.0,10-15-24,0.0,å Crowded
+305332.0,Misr Petroleum Tayara,"71JB (D(J3, 'D2B'2JB",10th Of Ramadan City,Egypt,30.371329,31.560437,1.0,10-15-24,0.0,å Crowded
+305328.0,Smouh Sporting Club (Pool),4'19 38,Alexandria,Egypt,31.217415,29.950894,1.0,10-15-24,19.34,é Free
+305326.0,Smouha Sporting Club (Tennis),4'19 38,Alexandria,Egypt,31.216411,29.953673,1.0,10-15-24,19.34,é Free
+305325.0,Smouha Sporting Club (Equestrian),4'19 38,Alexandria,Egypt,31.213866,29.957997,1.0,10-15-24,19.34,é Free
+305322.0,Mobil Gas Station Abu Humus,"71JB 'DB'G1), 'D'3CF/1J) 'D21'9I",Behira,Egypt,31.078982,30.321501,1.0,10-15-24,0.0,å Crowded
+305319.0,Marsa Alam - Lazuli Hotel,"71JB 'DB5J1, E13I 9DE",Marsa Alam,Egypt,25.972517,34.353522,1.0,04-17-25,0.0,å Crowded
+305318.0,Hacienda Red 1,'D71JB 'D3'-DI 'D/HDI,Matrouh,Egypt,31.003682,28.651463,1.0,09-25-05,22.97,é Free
+305317.0,Hacienda Red 2,'D71JB 'D3'-DI 'D/HDI,Matrouh,Egypt,30.99934,28.649625,1.0,09-25-05,22.97,é Free
+305316.0,Seashell 1,'D71JB 'D3'-DI 'D/HDI,Matrouh,Egypt,30.995422,28.697508,1.0,09-25-05,22.97,é Free
+305315.0,Seashell 2,Seashell,Matrouh,Egypt,30.989333,28.693858,1.0,09-25-05,22.97,é Free
+305314.0,Marassi MPorium,Marassi,Matrouh,Egypt,30.972538,28.740804,1.0,10-15-24,22.97,é Free
+305313.0,Chillout Marina 5,Marina 5,Matrouh,Egypt,30.838215,28.985384,1.0,10-15-24,22.97,é Free
+305312.0,Orouba Mall,"71JB E7'1 (1, 'D91(, 'D3'-D 'D4E'DJ",Alexandria,Egypt,31.006386,29.638277,4.0,10-15-24,19.34,é Free
+305311.0,King Marriott Academy,"71JB (1, 'D91(, 'D9'E1JG 'D,'F(J",Alexandria,Egypt,31.024892,29.775433,1.0,10-15-24,19.34,é Free
+305310.0,Mansour Auto Amerya,"71JB 'DB'G1), 'D'3CF/1J) 'D5-1'HJ",Alexandria,Egypt,31.04696,29.786205,3.0,10-15-24,19.34,é Free
+305309.0,Chillout Bashair El Khair,International Coastal RD,Alexandria,Egypt,31.16048,29.887511,1.0,10-15-24,19.34,é Free
+305308.0,Chillout El Kabary,'D71JB 'D3'-DI 'D/HDI,Alexandria,Egypt,31.167968,29.898944,1.0,10-15-24,19.34,é Free
+305307.0,Total Alexandria El Mahmoudeya,4'19 BF'D 'DE-EH/J),Alexandria,Egypt,31.202467,29.938634,1.0,10-15-24,19.34,é Free
+305306.0,Chillout Mansoura,4'19 'DEC('*J,Mansoura,Egypt,31.053978,31.409641,1.0,10-15-24,2.36,è Medium
+305305.0,Chillout Mansoura 2,Al Geish ST,Mansoura,Egypt,31.036977,31.39477,1.0,10-15-24,2.36,è Medium
+305304.0,Mall Of Tanta,"71JB CA1 'D4J., 7F7'",Tanta,Egypt,30.841742,31.017262,1.0,10-15-24,5.26,é Free
+305303.0,Chillout Tanta,4'19 'D-,', (F JH3A,Tanta,Egypt,30.79727,30.998072,1.0,10-15-24,5.26,é Free
+305302.0,Chillout Shebin El Koum,4'19 ,E'D 9(/ 'DF'51,Minufya,Egypt,30.578434,31.008944,1.0,10-15-24,0.0,å Crowded
+305301.0,Chillout Shobra Banha 3,"71JB 4(1', (FG' 'D-1",Qualyobeya,Egypt,30.343456,31.237215,4.0,10-15-24,0.0,å Crowded
+305300.0,Chillout Shobra Banha 2,"71JB 4(1', (FG' 'D-1",October City,Egypt,30.207363,31.23183,4.0,10-15-24,8.43,é Free
+305299.0,Majaz Mall,71JB 'DE/JF) 'D*9DJEJ),October City,Egypt,30.003325,31.001697,1.0,10-15-24,8.43,é Free
+305294.0,The Isle (Zone B),Waslet Dahshour RD,October City,Egypt,30.009893,30.985226,1.0,11-15-24,8.43,é Free
+305293.0,The Isle (Zone A),Waslet Dahshour RD,October City,Egypt,30.009488,30.982831,1.0,11-15-24,8.43,é Free
+305274.0,Total Damietta Int'l Coastal RD,Int'l Coastal RD,Damietta,Egypt,31.436238,31.5666,3.0,10-14-24,10.53,é Free
+305272.0,Total Damietta El Reyad,'D71JB 'D3'-DI 'D/HDI,Damietta,Egypt,31.41601,31.646621,1.0,10-14-24,10.53,é Free
+305271.0,Total Damietta Rakha,71JB 'DEJF'!,Damietta,Egypt,31.412859,31.737861,1.0,10-14-24,10.53,é Free
+305270.0,OLA Damietta El Captin,71JB 'DEJF'!,Damietta,Egypt,31.428094,31.752757,1.0,10-14-24,10.53,é Free
+305269.0,Carrefour El Wahat Road,El Wahat RD,October City,Egypt,29.952412,30.954226,1.0,10-14-24,8.43,é Free
+305268.0,Chillout City Scape,'DE-H1 'DE1C2I,October City,Egypt,29.965014,30.928071,1.0,10-14-24,8.43,é Free
+305267.0,Chillout Bank El Baraka,'DE-H1 'DE1C2I,October City,Egypt,29.951222,30.912954,1.0,10-14-24,8.43,é Free
+305266.0,Chillout Vodafone,'DE-H1 'DE1C2I,October City,Egypt,29.951269,30.91143,1.0,10-14-24,8.43,é Free
+305265.0,Nyoum October,Boulevard Axis,October City,Egypt,29.982197,30.88003,1.0,08-25-05,8.43,é Free
+305264.0,Green 5,Boulevard Axis,October City,Egypt,29.996614,30.90486,1.0,08-25-05,8.43,é Free
+305263.0,Blue Park,Gamal Abd El Naser ST,October City,Egypt,29.994609,30.950104,1.0,10-14-24,8.43,é Free
+305261.0,Water Park,4'19 E,/J #(H 'D39H/,October City,Egypt,29.999635,30.987907,1.0,10-14-24,8.43,é Free
+305260.0,Mall Of Arabia - Gate 9,E-H1 26 JHDJH,October City,Egypt,30.007274,30.977886,1.0,10-14-24,8.43,é Free
+305258.0,Mall Of Arabia - Gate 11,71JB H5DG /G4H1,October City,Egypt,30.009488,30.978728,1.0,10-18-25,8.43,é Free
+305257.0,Chillout Mall Of Arabia,71JB H5DG /G4H1,October City,Egypt,30.015572,30.975312,1.0,10-14-24,8.43,é Free
+305256.0,Chillout Dahshour RD,71JB H5DG /G4H1,October City,Egypt,30.029754,30.964312,1.0,10-14-24,8.43,é Free
+305255.0,Golden Walk,71JB H5DG /G4H1,October City,Egypt,30.052738,30.945364,1.0,10-14-24,8.43,é Free
+305254.0,Sodic WestTown Hub,71JB (JA1DJ GJD2,October City,Egypt,30.0727,30.946944,1.0,08-25-05,8.43,é Free
+305253.0,Walk Of Cairo,Alexandria Desert RD,October City,Egypt,30.077329,30.950673,4.0,10-14-24,8.43,é Free
+305252.0,Chillout Sahrawy,"71JB 'DB'G1), 'D'3CF/1J) 'D5-1'HJ",October City,Egypt,30.066841,31.019207,4.0,10-14-24,8.43,é Free
+305251.0,Dandy Mall,"71JB 'DB'G1), 'D'3CF/1J) 'D5-1'HJ",October City,Egypt,30.062898,31.027857,1.0,10-14-24,8.43,é Free
+305250.0,Mansour Auto Abou Rawash (Outdoor Parking),Abou Rawash,October City,Egypt,30.078567,31.048939,3.0,05-17-25,8.43,é Free
+305249.0,West Mark,West Mark,October City,Egypt,30.007433,30.993601,1.0,10-14-24,8.43,é Free
+305248.0,Galleria 40,Galleria 40,October City,Egypt,30.016749,31.000543,1.0,10-14-24,8.43,é Free
+305247.0,Chillout Galleria 40,E-H1 26 JHDJH 'D,'F(I,October City,Egypt,30.015131,31.002776,4.0,10-14-24,8.43,é Free
+305245.0,The Lane Mall,The Lane Mall,October City,Egypt,30.018366,31.010023,1.0,10-14-24,8.43,é Free
+305244.0,Park St.,4'19 'D(3*'F,October City,Egypt,30.025916,31.011327,1.0,10-14-24,8.43,é Free
+305243.0,Capital Business Park,Capital Business Park,October City,Egypt,30.025853,31.012027,1.0,10-14-24,8.43,é Free
+305242.0,Majarrah,4'19 'D1H6),October City,Egypt,30.025999,31.014886,1.0,10-14-24,8.43,é Free
+305241.0,Chillout El Khamail 1,E-H1 26 JHDJH 'D,'F(I,October City,Egypt,30.037582,31.037003,1.0,10-14-24,8.43,é Free
+305240.0,Chillout El Khamail 2,E-H1 26 JHDJH 'D,'F(I,October City,Egypt,30.038307,31.036558,4.0,10-14-24,8.43,é Free
+305239.0,PalmHills Str. 88,Palm Hills,October,Egypt,30.013702,31.025447,1.0,08-25-05,5.68,é Free
+305238.0,PalmHills Club,PalmHills,October City,Egypt,30.012428,31.031056,1.0,08-25-05,8.43,é Free
+305237.0,PalmHills Golf,4'19 FJH,J2),October City,Egypt,30.008162,31.034048,1.0,08-25-05,8.43,é Free
+305236.0,PalmHills Badya,Palm Hills Badya,October City,Egypt,29.846685,30.916675,1.0,10-14-24,8.43,é Free
+305235.0,Golf Central,Golf Central Palm Hills,October City,Egypt,29.994081,31.043653,1.0,08-25-05,8.43,é Free
+305234.0,Intersection Mall,4'19 E57AI 9(/ 'D3EJ9,October City,Egypt,29.996376,31.051586,1.0,10-14-24,8.43,é Free
+305233.0,NewGiza Golf,NewGiza,October City,Egypt,30.007865,31.055889,1.0,08-25-05,8.43,é Free
+305232.0,NewGiza Club,4'19 CDH(,October City,Egypt,30.004897,31.065626,1.0,08-25-05,8.43,é Free
+305231.0,New Giza Bricklane,4'19 CDH(,October City,Egypt,30.00687,31.066084,1.0,08-25-05,8.43,é Free
+305230.0,Chillout Pyramids Gardens 2,'D71JB 'D/'&1J,October City,Egypt,29.998064,31.097538,4.0,10-14-24,8.43,é Free
+305229.0,A1 Katameya,71JB 'D9JF 3.F) 'DB/JE,New Cairo,Egypt,29.97724,31.358249,3.0,12-13-24,7.08,é Free
+305228.0,Chillout El Nakhil,E-H1 'D4GJ/,Mokattam,Egypt,29.984123,31.356507,1.0,10-14-24,3.81,é Free
+305227.0,Chillout El Kafrawy,E-H1 -3( 'DDG 'DCA1'HI,Mokattam,Egypt,29.989705,31.329308,1.0,10-14-24,3.81,é Free
+305226.0,Chillout Autostrad 1,Ring RD,Maadi,Egypt,29.992496,31.285051,1.0,10-14-24,3.19,é Free
+305225.0,Chillout Autostrad 2,71JB 'DF51,Maadi,Egypt,29.992863,31.283115,4.0,10-14-24,3.19,é Free
+305224.0,Uptown Cairo Carrefour,Unknown,Mokattam,Egypt,30.018216,31.298867,1.0,10-14-24,3.81,é Free
+305223.0,Uptown Cairo Clubhouse,Unknown,Mokattam,Egypt,30.022296,31.299308,1.0,10-14-24,3.81,é Free
+305222.0,Uptown Cairo Sports Center,71JB '( *'HF C'J1H,Mokattam,Egypt,30.024309,31.287807,1.0,10-14-24,3.81,é Free
+305221.0,Chillout Ferdoos 3,4'19 'DA1/H3,Abasseya,Egypt,30.056031,31.279701,1.0,10-14-24,1.83,è Medium
+305220.0,Eni Abaseya,'E*/'/ 4'19 1E3J3,Abasseya,Egypt,30.065212,31.295412,1.0,10-14-24,1.83,è Medium
+305219.0,Co-op Salah Salem,4'19 5D'- 3'DE,Masr El Gedida,Egypt,30.076731,31.311919,1.0,10-14-24,6.12,é Free
+305186.0,Chillout Dokki,4'19 F'/J 'D5J/,Dukki,Egypt,30.043392,31.211224,4.0,10-17-24,0.67,å Crowded
+305185.0,Sheraton Cairo 1,FAB 'D9,H2G,Dukki,Egypt,30.038914,31.220183,1.0,08-25-05,0.67,å Crowded
+305184.0,Sheraton Cairo 2,FAB 'D9,H2G,Dukki,Egypt,30.039301,31.22009,1.0,08-25-05,0.67,å Crowded
+305183.0,Conrad Cairo (Sofitel basement parking),4'19 'DE7(9G 'D'EJ1JG,Shubra,Egypt,30.065577,31.22791,1.0,08-15-25,5.95,é Free
+305182.0,Misr El Manara,4'19 3CG 'DH'JDJ,Shubra,Egypt,30.090381,31.282644,1.0,10-14-24,5.95,é Free
+305181.0,Chillout Saad El Shazly,'D71JB 'D/'&1J,Masr El Gedida,Egypt,30.129467,31.463174,4.0,10-14-24,6.12,é Free
+305180.0,Chillout Gesr El Suez,Gesr El Suez,Masr El Gedida,Egypt,30.139413,31.393942,1.0,10-14-24,6.12,é Free
+305179.0,Chillout El Salam,'D71JB 'D/'&1J,El Salam,Egypt,30.149522,31.41841,1.0,10-14-24,0.2,å Crowded
+305178.0,Town Center,'D71JB 'D/'&1J,El Salam,Egypt,30.148969,31.420373,4.0,10-14-24,0.2,å Crowded
+305177.0,AGM Obour 1,"71JB 'DB'G1), 'D'3E'9JDJG 'D5-1'HJ",Obour,Egypt,30.170094,31.506636,4.0,02-25-05,8.59,é Free
+305176.0,AGM Obour 2,Ismailia Desert RD,Obour,Egypt,30.171924,31.507127,1.0,02-25-05,8.59,é Free
+305175.0,Chillout Obour 2,"71JB 'DB'G1), 'D'3E'9JDJG 'D5-1'HJ",Obour,Egypt,30.164433,31.484568,4.0,01-25-02,8.59,é Free
+305174.0,Chillout Obour 1,E-H1 'D9(H1,Obour,Egypt,30.179435,31.472399,1.0,10-14-24,8.59,é Free
+305173.0,Cillout Obour 3,4'19 100,Obour,Egypt,30.195664,31.459586,1.0,10-14-24,8.59,é Free
+305119.0,Chillout Rock-C Plaza,4'19 'D.DJAG 'DE#EHF,Masr El Gedida,Egypt,30.091463,31.311695,1.0,10-13-24,6.12,é Free
+305118.0,Chillout Souk El Khamis,Unknown,Heliopolis,Egypt,30.118439,31.303159,1.0,10-13-24,1.45,è Medium
+305117.0,Chillout Mostorod,4'19 'D-1JG,Heliopolis,Egypt,30.129388,31.294991,1.0,10-13-24,1.45,è Medium
+305116.0,Chillout Merryland,4'19 ,31 'D3HJ3,Masr El Gedida,Egypt,30.099069,31.315503,1.0,10-13-24,6.12,é Free
+305115.0,City Stars 1 (Basement Parking B1 N),4'19 'D'E/'/ H 'D*EHJF,Madinet Nasr,Egypt,30.073551,31.34606,1.0,12-28-24,4.71,é Free
+305114.0,City Stars 2 (Basement Parking -3 Q),4'19 'D'E/'/ H 'D*EHJF,Madinet Nasr,Egypt,30.074042,31.344067,1.0,12-28-24,4.71,é Free
+305113.0,Petra Gate Mall,4'19 'D4GJ/ CE'D 'DA3.'FJ,Masr El Gedida,Egypt,30.089389,31.34789,1.0,10-13-24,6.12,é Free
+305112.0,City Center Almaza,"71JB 'DB'G1), 'D3HJ3",Masr El Gedida,Egypt,30.080673,31.364304,1.0,12-22-24,6.12,é Free
+305111.0,Chillout El Sa'aqa,4'19 'D5'9BG,Masr El Gedida,Egypt,30.090951,31.376462,1.0,10-13-24,6.12,é Free
+305110.0,Chillout Gardenya,"71JB 'DB'G1), 'D3HJ3",Madinet Nasr,Egypt,30.079976,31.39747,1.0,10-13-24,4.71,é Free
+305109.0,Taj Sultan,TajbSultan,Madinet Nasr,Egypt,30.060483,31.409673,1.0,02-25-05,4.71,é Free
+305108.0,Park Residence,Suez RD,Madinet Nasr,Egypt,30.070963,31.410758,1.0,02-25-05,4.71,é Free
+305107.0,Chillout Airport,"71JB 'DB'G1), 'D3HJ3",Masr El Gedida,Egypt,30.079859,31.432703,1.0,10-13-24,6.12,é Free
+305106.0,Chillout El Rehab,E-H1 E-E/ F,J(,New Cairo,Egypt,30.07216,31.474179,1.0,10-13-24,7.08,é Free
+305105.0,Chillout Sadat 2,E-H1 'D3'/'*,New Cairo,Egypt,30.053908,31.467941,4.0,03-25-01,7.08,é Free
+305104.0,Chillout Sadat 1,E-H1 'D3'/'*,New Cairo,Egypt,30.053284,31.468497,1.0,10-13-24,7.08,é Free
+305103.0,Garden 8,4'19 5D'- 'D/JF 9(/ 'DC1JE,New Cairo,Egypt,30.046071,31.483825,2.0,11-26-24,7.08,é Free
+305102.0,Wataniya Waha,E-H1 'DE4J1 E-E/ 9DI AGEJ,Unknown,Egypt,30.043691,31.38116,1.0,10-13-24,193.49,é Free
+305101.0,Chillout El Moshir,E-H1 'DE4J1 7F7'HI,New Cairo,Egypt,30.019985,31.381313,1.0,10-13-24,7.08,é Free
+305100.0,Chillout Triumph,'D71JB 'D/'&1J,New Cairo,Egypt,30.006424,31.400098,3.0,10-17-24,7.08,é Free
+305099.0,The Drive By Waterway,'D71JB 'D/'&1J,New Cairo,Egypt,30.009467,31.400715,1.0,10-13-24,7.08,é Free
+305098.0,Down Town Katameya,E-H1 'D91H(),New Cairo,Egypt,30.017214,31.412477,1.0,10-13-24,7.08,é Free
+305097.0,Dusit Hotel,4'19 'D*39JF 'D,FH(J 'D,'F(I,New Cairo,Egypt,30.02571,31.454455,1.0,02-25-05,7.08,é Free
+305096.0,Chillout N90,North 90 ST,New Cairo,Egypt,30.028766,31.467761,1.0,10-13-24,7.08,é Free
+305095.0,The NOX,North 90 ST,New Cairo,Egypt,30.028368,31.479415,1.0,10-13-24,7.08,é Free
+305094.0,Mobil Concord Plaza,South 90 ST,New Cairo,Egypt,30.022575,31.479704,1.0,10-13-24,7.08,é Free
+305093.0,90 Avenue,South 90 ST,New Cairo,Egypt,30.023414,31.492176,1.0,10-13-24,7.08,é Free
+305092.0,Lulu Hypermarket Parking / Nyoum New Cairo,4'19 'D*39JF 'D4E'DI,New Cairo,Egypt,30.028077,31.496288,1.0,10-19-24,7.08,é Free
+305091.0,Chillout AUC,4'19 'D*39JF 'D,FH(J,New Cairo,Egypt,30.02502,31.499989,4.0,10-17-24,7.08,é Free
+305090.0,Chillout Lotus,4'19 'D*39JF 'D4E'DI,New Cairo,Egypt,30.030407,31.503933,1.0,10-13-24,7.08,é Free
+305089.0,Palm Hills Katameya 1,4'19 EJAJ/',New Cairo,Egypt,30.031839,31.537542,1.0,02-25-05,7.08,é Free
+305087.0,Mivida Greens Club,4'19 EJAJ/',New Cairo,Egypt,30.010738,31.545198,1.0,02-25-05,7.08,é Free
+305086.0,Mivida Avenues Club,Mivida,New Cairo,Egypt,29.999245,31.538743,1.0,02-25-05,7.08,é Free
+305082.0,Administrative Capital District 1 (High Education Min.),Unknown,Administrative Capital,Egypt,30.016131,31.740645,1.0,02-25-05,0.0,å Crowded
+305081.0,Sarai FB (Community Management Center),Middle Ring RD,Sarai,Egypt,30.087901,31.709771,1.0,02-25-05,0.99,å Crowded
+305080.0,Sarai S2,Middle Ring RD,Sarai,Egypt,30.099311,31.704086,1.0,02-25-05,0.99,å Crowded
+305079.0,Sarai S1,Middle Ring RD,Sarai,Egypt,30.091383,31.703542,1.0,02-25-05,0.99,å Crowded
+305078.0,Palm Hills Capital Gardens,Middle Ring RD,Shrouk,Egypt,30.087197,31.695443,1.0,02-25-05,6.65,é Free
+305077.0,Chillout Int'l Medical Center,Ismailia Desert RD,Cairo,Egypt,30.207693,31.673461,4.0,11-29-24,13.66,é Free
+305076.0,Palm Hills New Cairo,Middle Ring RD,New Cairo,Egypt,30.057114,31.601174,1.0,02-25-05,7.08,é Free
+305075.0,Chillout Madinaty,"71JB 'DB'G1), 'D3HJ3",Sohrouk,Egypt,30.103888,31.6014,4.0,10-17-24,0.0,å Crowded
+305073.0,Chillout Assyut 2,"71JB 'DB'G1), '3H'F 'D5-1'HI 'D41BI",Assyut,Egypt,27.261454,31.27947,1.0,12-24-10,11.34,é Free
+305072.0,Chillout Assyut 1,4'19 '-E/ -3F 'D('BH1J,Assyut,Egypt,27.203159,31.185312,1.0,12-24-10,11.34,é Free
+305071.0,CPC Aswan,4'19 'D3E'/ (-1I,5'D- ,'GJF,Egypt,24.101436,32.902597,1.0,12-24-10,0.0,å Crowded
+305070.0,"Somabay, Mesca","Somabay, Mesca",Somabay,Egypt,26.864542,33.969565,1.0,12-24-10,1.57,è Medium
+305069.0,Ein Bay,Ein Bay Resort,Ein Bay,Egypt,29.722723,32.385392,1.0,12-24-10,0.0,å Crowded
+305068.0,Chillout Ismaillia,71JB 'D,J4,Ismaillia,Egypt,30.577178,32.260336,1.0,12-24-10,0.0,å Crowded
+305058.0,CPC Sharm,71JB 'DE/.D 'D1&J3I D41E 'D4J.,Sharm El Sheikh,Egypt,27.858396,34.268317,4.0,11-26-24,10.98,é Free
+305057.0,Sharm Port,4'19 E-E/ 'DJE'FI,Sharm El Sheikh,Egypt,27.855209,34.288963,1.0,12-24-10,10.98,é Free
+305056.0,Gastec Sharm,Unknown,Sharm El Sheikh,Egypt,27.864266,34.295535,1.0,12-24-10,10.98,é Free
+305055.0,Misr El Hadaba,4'19 F'/I 'D1J'6'* 'D(-1JG,Sharm El Sheikh,Egypt,27.854381,34.302383,1.0,12-24-10,10.98,é Free
+305054.0,Fares Sharm,4'19 41E DJ2JG,Sharm El Sheikh,Egypt,27.862791,34.304621,1.0,12-24-10,10.98,é Free
+305053.0,El Fanar Sharm,4'19 'DAF'1,Sharm El Sheikh,Egypt,27.848357,34.31566,1.0,12-24-10,10.98,é Free
+305052.0,Gastec Ruwaysat,4'19 'D1H3*'*,Unknown,Egypt,27.902251,34.286748,1.0,12-24-10,193.49,é Free
+305051.0,Carrefour Sharm,71JB 'D3D'E,Sharm El Sheikh,Egypt,27.889816,34.304962,1.0,12-24-10,10.98,é Free
+305050.0,Sharm Haloumi,71JB 'D3D'E,Sharm El Sheikh,Egypt,27.90717,34.314357,1.0,12-24-10,10.98,é Free
+305049.0,Sharm Naama Bay,4'19 ,D'D) 'DEDC -E/ (F 9J3J 'D .DJAG,Unknown,Egypt,27.907895,34.325728,1.0,12-24-10,193.49,é Free
+305048.0,Sharm Sunny Lakes,71JB 'D3D'E,Unknown,Egypt,27.924873,34.343834,1.0,12-24-10,193.49,é Free
+305047.0,Chillout Sharm,71JB 'D3D'E,Sharm El Sheikh,Egypt,27.936345,34.354225,4.0,11-26-24,10.98,é Free
+305046.0,Misr Sharm,'D71JB 'D/'&1J,Sharm El Sheikh,Egypt,27.976699,34.34134,1.0,12-24-10,10.98,é Free
+305045.0,Mobile Sharm Airport,71JB 'D3D'E,Sharm El Sheikh,Egypt,27.966412,34.361788,4.0,11-26-24,10.98,é Free
+305044.0,Sharm Soho,4'19 'D4J. 2'J/,Sharm El Sheikh,Egypt,27.962831,34.391267,1.0,12-24-10,10.98,é Free
+305042.0,Sharm Amwaj,71JB 'D3D'E,Sharm El Sheikh,Egypt,28.036187,34.431294,4.0,11-26-24,10.98,é Free
+305041.0,Sharm La Strada,71JB 'D3D'E,Sharm El Sheikh,Egypt,28.044483,34.429965,2.0,12-24-10,10.98,é Free
+305040.0,Meridien Dahab,4'19 'D*-1J1,Dahab,Egypt,28.47103,34.478147,1.0,12-24-10,0.0,å Crowded
+305007.0,Chillout CFC / Ring RD,"Ring RD, Opposite To CFC",Unknown,Egypt,30.026272,31.401479,4.0,10-17-24,193.49,é Free
+304935.0,Somabay Marina,Somabay,Somabay,Egypt,26.850076,33.985302,4.0,12-31-24,1.57,è Medium
+304594.0,"CFC, Near Emarat Misr",'D71JB 'D/'&1J,New Cairo,Egypt,30.032733,31.404304,1.0,10-25-01,7.08,é Free
+304543.0,IKEA Outdoor Parking/CFC,'D71JB 'D/'&1J,Unknown,Egypt,30.029646,31.406973,1.0,09-24-11,193.49,é Free
+304534.0,Starbucks HydeOut,Hyde Park,Unknown,Egypt,29.977217,31.542707,2.0,08-21-25,193.49,é Free
+303690.0,ENI/Gas Tech,4'19 'DBF'D,Zohor,Egypt,31.26013,32.280426,1.0,08-30-24,0.0,å Crowded
+303388.0,Stella Walk / Sha7en,'D71JB 'D3'-DI 'D/HDI,Sidi Abdel Rahman,Egypt,30.955379,28.768108,3.0,10-15-24,10.01,é Free
+302556.0,Fouka Bay / Club House Parking,211 International Coastal RD,Ras El Hikma,Egypt,31.089287,27.937139,1.0,06-19-25,5.22,é Free
+302555.0,Seashore by Hyde Park,International Coastal RD,Ras El Hikma,Egypt,31.078463,27.953371,2.0,04-17-25,5.22,é Free
+302547.0,El Marasem Fifth Square Station 2,North Tesen St,New Cairo,Egypt,30.049598,31.537604,1.0,04-24-25,7.08,é Free
+302546.0,Sombay Mesca 3,Mesca,Somabay,Egypt,26.866589,33.965428,1.0,10-16-24,1.57,è Medium
+302535.0,Mangroovy El Gouna,Amr Khalil St,Gouna,Egypt,27.416182,33.670862,2.0,11-26-24,1.53,è Medium
+302534.0,Swan Lake - EV 14,Swan Lake,Gouna,Egypt,27.404405,33.660533,2.0,11-26-24,1.53,è Medium
+302533.0,Fuel Up Taameer Axis,International Coastal RD,Borg El Arab,Egypt,31.045366,29.705986,2.0,11-26-24,0.0,å Crowded
+302532.0,Hilton Corniche Alexandria,4'19 .'D/ (F 'DHDJ/,Miami,Egypt,31.261789,29.983814,1.0,02-15-25,0.0,å Crowded
+302516.0,Watniya Port Said-Ismailia RD,Ismailia-Port Said DR,Port Said,Egypt,31.223053,32.296943,2.0,10-22-24,3.71,é Free
+302505.0,Wataniya Sokhna RD,"71JB 'DB7'EJ), 'D9JF 'D3.FG",Suez,Egypt,29.686874,32.189142,2.0,11-22-24,0.0,å Crowded
+302504.0,Elsewedy University of Technology,Ismailia RD,10th of Ramadan,Egypt,30.232241,31.705476,2.0,11-26-24,0.0,å Crowded
+302503.0,Mall of Arabia,Gamal Abd Al Naser St,October City,Egypt,30.010322,30.978065,2.0,11-26-24,8.43,é Free
+302502.0,A1 Station - Zahraa El Maadi,4'19 'D.E3JF,Maadi,Egypt,29.967858,31.313306,1.0,10-30-24,3.19,é Free
+302501.0,City Stars (Basement Parking -3 N),Omar Ibn El Khattab St,Nasr City,Egypt,30.0739,31.344498,3.0,12-28-24,0.0,å Crowded
+302500.0,Smash Sporting Club,Cairo Internation Airport,Cairo,Egypt,30.119807,31.400538,2.0,02-25-05,13.66,é Free
+302487.0,Wataniya Al Ghaba A'Shagareya,Mohammed Ali Fahmy Axis,Madinet Nasr,Egypt,30.016349,31.366848,3.0,11-26-24,4.71,é Free
+302486.0,CFC Podium 4,Cairo Festival City,New Cairo,Egypt,30.02189,31.406132,2.0,06-29-25,7.08,é Free
+302485.0,The Knowledge Hub - Coventry University,E-H1 'D4J. E-E/ (F 2'J/ 'D,FH(J,Unknown,Egypt,30.017009,31.73468,1.0,02-25-05,193.49,é Free
+302484.0,ACUD,Government District,New Capital,Egypt,30.016461,31.73829,2.0,11-23-24,4.77,é Free
+302483.0,The Square - Zone M,Mahmoud Hamdan Axis,New Cairo,Egypt,29.999356,31.552564,1.0,02-25-05,7.08,é Free
+302482.0,Agora Mall (Basement Parking),El Nasr,New Cairo,Egypt,30.021145,31.529351,1.0,12-28-24,7.08,é Free
+302414.0,Mivida - P10 - 7A,Mividia,New Cairo,Egypt,30.004721,31.535257,1.0,02-25-05,7.08,é Free
+302401.0,Wataniya El Rehab,E-H1 'D*-1J1,New Cairo,Egypt,30.043657,31.495934,3.0,04-25-06,7.08,é Free
+302169.0,Fouka Bay / Golf Cart Parking,211 Int'l Coastal Rd,Ras El Hikma,Egypt,31.0906,27.939377,2.0,09-25-05,5.22,é Free
+301929.0,Il Monte Galala (Mosque Parking),Il Monte Galala,Ain Sokhna,Egypt,29.499602,32.407078,2.0,05-24-25,29.03,é Free
+301928.0,Concord Plaza,4'19 'D*39JF 'D,FH(J,New Cairo,Egypt,30.024841,31.482781,1.0,11-23-24,7.08,é Free
+301927.0,WYTE Beach,"Somabay, WYTE Beach",Somabay,Egypt,26.856952,33.979068,1.0,04-23-25,1.57,è Medium
+301926.0,"Somabay, Marina","Somabay, Marina",Somabay,Egypt,26.850296,33.985579,1.0,04-23-25,1.57,è Medium
+301632.0,Ikarus Al Alamein,'D71JB 'D3'-DI 'D/HDI,Alamein,Egypt,30.86554,28.92738,4.0,05-16-25,0.0,å Crowded
+301631.0,Grand Ocean Hotel (Breeze Café),Sokhna,Unknown,Egypt,29.36235,32.57255,2.0,04-17-25,193.49,é Free
+300113.0,7 Stars Mall - Sadat City,4'19 9E1H (F 'D9'5,Sadat City,Egypt,30.37265,30.50089,3.0,04-17-25,14.29,é Free
+299480.0,Al-Banafseg Station,4'19 /C*H1 '-E/ 9C'4G,Unknown,Egypt,30.05711,31.46819,3.0,04-17-25,193.49,é Free
+299479.0,Zaafarana Rest House,"71JB 'D29A1'FG, 1#3 :'1(",Unknown,Egypt,29.09983,32.64772,2.0,04-17-25,193.49,é Free
+299478.0,Ras Sedr - Matarma Beach Residence,Matarma Beach Resort,Ras Sedr,Egypt,29.44193,32.76467,3.0,04-17-25,44.48,é Free
+299477.0,Green Plaza,4'19 14 E'JH,Alexandria,Egypt,31.2081,29.96429,3.0,04-17-25,19.34,é Free
+299476.0,Hilton King's Ranch,"71JB (1, 'D91(, 'D9'E1JG 'D,'F(J",Unknown,Egypt,30.98264,29.69241,2.0,04-17-25,193.49,é Free
+299475.0,Sky-Mall North Coast,North Coast,Unknown,Egypt,30.99,28.68067,2.0,03-25-08,193.49,é Free
+297600.0,Chillout Mohamed Naguib,E-H1 E-E/ F,J(,New Cairo,Egypt,29.991488,31.469273,4.0,10-17-24,7.08,é Free
+297599.0,Chillout El Sokhna Master 1,"71JB 'DB7'EJ), 'D9JF 'D3.FG",Kattameya,Egypt,29.960952,31.455358,4.0,11-22-24,0.61,å Crowded
+297519.0,Aladawy International Coastal Station,'D71JB 'D3'-DI 'D/HDI,Unknown,Egypt,31.424276,31.538038,4.0,04-17-25,193.49,é Free
+297518.0,El Mahalla - El Mansoura Road,'D71JB 'D/'&1J,Unknown,Egypt,30.99733,31.27803,2.0,04-17-25,193.49,é Free
+291258.0,Swell Lake Zayed,Waslet Dahshour RD,October City,Egypt,29.989671,30.997103,2.0,04-17-25,8.43,é Free
+290751.0,Chillout Ras El Hekma 1,Ras El Hekma,Ras El Hikma,Egypt,31.101222,27.850056,4.0,10-15-24,5.22,é Free
+290750.0,Chillout Hacienda,Hacienda,Matrouh,Egypt,30.998972,28.647167,4.0,01-25-08,22.97,é Free
+290749.0,Chillout Marassi,Marassi,Matrouh,Egypt,30.97375,28.735389,4.0,05-16-25,22.97,é Free
+290748.0,Watanya Alamein 3,71JB 'D(*1HD,Matrouh,Egypt,30.8505,28.768917,4.0,10-23-24,22.97,é Free
+290747.0,Watanya Alamein 1,'D71JB 'D3'-DI 'D/HDI,Matrouh,Egypt,30.885,28.861167,4.0,10-15-24,22.97,é Free
+290746.0,Chillout Alamein 3,'D71JB 'D3'-DI 'D/HDI,Matrouh,Egypt,30.870556,28.879,4.0,10-15-24,22.97,é Free
+290745.0,Chillout Alamein 1,Alamein,Matrouh,Egypt,30.84875,28.918056,3.0,10-15-24,22.97,é Free
+290744.0,Watanya Borqan 2,"71JB H'/I 'DF71HF, 'D9DEJF",Alameen,Egypt,30.676167,29.293472,4.0,11-26-24,31.92,é Free
+290743.0,Chillout El Hamam,El Hamam,Matrouh,Egypt,30.900639,29.413778,4.0,10-15-24,22.97,é Free
+290742.0,Chillout K21 (Agamy),Agamy,Alexandria,Egypt,31.065417,29.769222,4.0,10-15-24,19.34,é Free
+290741.0,Mcdonald's Amerya,"71JB 'DB'G1), 'D'3CF/1J) 'D5-1'HJ",Alexandria,Egypt,31.03125,29.785389,3.0,10-15-24,19.34,é Free
+290740.0,Chillout Rest House,"71JB 'DB'G1), 'D'3CF/1J) 'D5-1'HJ",Sadat,Egypt,30.3925,30.377222,3.0,10-24-12,19.07,é Free
+290739.0,OLA Sahrawy,"71JB 'DB'G1), 'D'3CF/1J) 'D5-1'HJ 'D,'F(J",Sadat City,Egypt,30.30575,30.5635,3.0,11-26-24,14.29,é Free
+290738.0,Chillout El Wahaa 1,"71JB 'DB7'EJ), 'D9JF 'D3.FG",Ain Sokhna,Egypt,29.806028,31.895194,3.0,11-26-24,29.03,é Free
+290737.0,Chillout El Wahaa 2,"71JB 'DB7'EJ), 'D9JF 'D3.FG",Ain Sokhna,Egypt,29.805306,31.896861,3.0,07-25-25,29.03,é Free
+290736.0,Chillout El Galala,71JB 'D,D'D),Ain Sokhna,Egypt,29.641194,32.227861,3.0,11-26-24,29.03,é Free
+290735.0,Chillout Zafarana,"71JB 'D29A1'FG, 1#3 :'1(",Unknown,Egypt,29.097667,32.64575,4.0,11-26-24,193.49,é Free
+290734.0,Mobil Ras Ghareb,"71JB 1'3 :'1(, 'D:1/B)",Unknown,Egypt,28.339722,33.059861,2.0,04-25-10,193.49,é Free
+290733.0,El Gouna Gourmet,El Gouna,Gouna,Egypt,27.399139,33.66375,4.0,09-25-02,1.53,è Medium
+290732.0,El Gouna Sports District,4'19 E-E/ '(1'GJE CE'D,Gouna,Egypt,27.398417,33.670667,4.0,09-25-02,1.53,è Medium
+290422.0,Co-op Gas Station,"71JB F.D, 5/1 'D-J7'F",Ras Sedr,Egypt,30.032111,32.62925,2.0,10-15-24,44.48,é Free
+290421.0,Distribution Office (Parking),New Admin Capital,Unknown,Egypt,30.009746,31.744718,1.0,02-25-05,193.49,é Free
+290420.0,FUEL UP Gas Station Police Academy,E-H1 E57AI C'ED 'D,'F(I,New Cairo,Egypt,30.049583,31.441611,4.0,11-26-24,7.08,é Free
+290419.0,Water Park Walkway,71JB H5DG /G4H1,October City,Egypt,30.001667,30.987472,3.0,11-15-24,8.43,é Free
+290418.0,OLA Energy Sadat,"71JB 'DB'G1), 'D'3CF/1J) 'D5-1'HJ 'D,'F(J",Unknown,Egypt,30.339806,30.487417,4.0,09-24-02,193.49,é Free
+290402.0,Rally Motors - IKARUS,4'19 5,Unknown,Egypt,29.918523,30.911591,2.0,04-17-25,193.49,é Free
+290401.0,Government District (Monorail Station Parking),"New Administrative Capital, Cairo Governorate Desert, Cairo Governorate",New Capital,Egypt,30.009359,31.745067,2.0,04-17-25,4.77,é Free
+290400.0,El-Obour Charging station (ID Store),"71JB E51, Ismailia Desert Rd, Ismailia Governorate, Cairo Governorate 11828",Obour,Egypt,30.160616,31.462727,2.0,04-17-25,8.59,é Free
+290397.0,Misr Petrol Gas Station,4'19 'D#5(G'FI,Unknown,Egypt,30.010259,31.435911,2.0,04-17-25,193.49,é Free
+290396.0,Hilton King's Ranch,"71JB (1, 'D91(, 'D9'E1JG 'D,'F(J",Alexandria,Egypt,30.982222,29.692861,1.0,01-25-02,19.34,é Free
+,,,,,,,,,,
+
