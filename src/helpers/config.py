@@ -9,7 +9,7 @@ class Settings(BaseSettings):
     Settings for the EV application.
     Dynamic loading from environment variables (.env).
     """
- 
+
     APP_NAME: str = "EV Routing & Battery Simulator"
     APP_VERSION: str = "1.0.0"
 
