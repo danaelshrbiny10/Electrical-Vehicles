@@ -10,4 +10,4 @@ router = APIRouter()
 @router.post("/simulate", response_model=SimulationResponse)
 async def simulate_endpoint(payload: SimulationRequest):
     """Endpoint to simulate a trip based on the given parameters."""
-    return simulate_trip(payload)
+    return await simulate_trip(payload)

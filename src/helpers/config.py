@@ -9,7 +9,7 @@ class Settings(BaseSettings):
     Settings for the EV application.
     Dynamic loading from environment variables (.env).
     """
-
+ 
     APP_NAME: str = "EV Routing & Battery Simulator"
     APP_VERSION: str = "1.0.0"
 
@@ -21,7 +21,10 @@ class Settings(BaseSettings):
     DEFAULT_SPEED_KMH: float = float(os.getenv("DEFAULT_SPEED_KMH", "90"))
     DEFAULT_SEGMENTS: int = int(os.getenv("DEFAULT_SEGMENTS", "10"))
 
-    model_config = {"env_file": ".env", "env_file_encoding": "utf-8"}
+    model_config = {"env_file": ".env", "env_file_encoding": "utf-8", "extra": "allow"}
+
+    input_file: str | None = None
+    output_file: str | None = None
 
 
 def get_settings() -> Settings:

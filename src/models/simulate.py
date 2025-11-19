@@ -1,33 +1,41 @@
 """Data models for simulation requests and responses."""
 
-from pydantic import BaseModel, Field
-from typing import List, Literal
+from pydantic import BaseModel
+from typing import List, Optional, Literal
 
 
 class Coordinates(BaseModel):
-    """Geographical coordinates with latitude and longitude."""
+    """Latitude / Longitude coordinates."""
 
     lat: float
     lon: float
 
 
 class ChargerPreference(BaseModel):
-    """User preference for charger stops during the trip."""
+    """User preference for how charging stops are selected."""
 
     mode: Literal["few_long", "quickest_arrival", "many_short"]
 
 
 class CarModel(BaseModel):
-    """Details about the car model for the simulation."""
+    """Car and battery information for simulation."""
 
     model_name: str
-    current_battery_percentage: float = Field(..., ge=0, le=100)
-    destination_arrival_soc: float = Field(..., ge=0, le=100)
+    current_battery_percentage: float
+    destination_arrival_soc: float
     charger_stops: ChargerPreference
 
 
+class StationInfo(BaseModel):
+    """Information about a charging station."""
+
+    name: str
+    lat: float
+    lon: float
+
+
 class SimulationRequest(BaseModel):
-    """Request model for trip simulation."""
+    """Request model for a trip simulation."""
 
     start: Coordinates
     end: Coordinates
@@ -35,7 +43,7 @@ class SimulationRequest(BaseModel):
 
 
 class SimulationResponse(BaseModel):
-    """Response model for trip simulation results."""
+    """Response model for a trip simulation."""
 
     trip_time_minutes: float
     avg_consumption_kwh_100km: float
@@ -44,3 +52,4 @@ class SimulationResponse(BaseModel):
     end: Coordinates
     charges: bool
     number_of_charges: int
+    stations: Optional[List[StationInfo]] = []

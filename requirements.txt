@@ -8,3 +8,5 @@ pydantic==2.12.4
 numpy==2.3.4
 scikit-learn==1.7.2
 joblib==1.5.2
+fuzzywuzzy==0.18.0
+httpx==0.28.1
