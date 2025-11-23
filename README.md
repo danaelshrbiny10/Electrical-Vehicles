@@ -1,7 +1,7 @@
 [![python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![pydocstyle](https://img.shields.io/badge/pydocstyle-enabled-AD4CD3)](http://www.pydocstyle.org/en/stable/)
 
 <p align="center">
-  <img src="./logo/logo_highres.png" width="110" alt="EV Logo">
+  <img src="./src/assets/logo/logo_highres.png" width="110" alt="EV Logo">
 </p>
 
 <h1 align="center">EV Model Simulator (Prototype)</h1>
@@ -22,7 +22,7 @@ $ source .env/bin/activate
 Set up environment variables:
 
 ```bash
-$ cp .env.example .env
+$ cp .env.template .env
 ```
 
 ## :snake: Python Requirements
@@ -41,7 +41,7 @@ $ pip install -r requirements.txt
 Start the application with Uvicorn after activating your virtual environment:
 
 ```bash
-$ uvicorn main:app --reload --host 0.0.0.0 --port 800
+$ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 Flags explained:
@@ -75,6 +75,17 @@ You can test the API endpoints using the provided Postman collection.
 - Local file: [EV.postman_collection.json](./src/assets/Ev.postman_collection.json)
 
 - Shared workspace link:[EV API Collection](https://restless-space-444311.postman.co/workspace/EV~4de491a1-533e-4e0a-9e30-8d551cb31c2d/collection/13841690-c22ff165-7094-4196-a1a0-628ce8462ba4?action=share&source=copy-link&creator=13841690)
+
+## 🚀 Production Links
+
+- **📝 Swagger**:  
+  [`https://ev-ai-production.up.railway.app/docs`](https://ev-ai-production.up.railway.app/docs)
+
+- **📚 API Documentation**:  
+  [`https://ev-ai-production.up.railway.app/redoc`](https://ev-ai-production.up.railway.app/redoc)
+
+- **🌐 Base URL**:  
+  [`https://ev-ai-production.up.railway.app/`](https://ev-ai-production.up.railway.app/)
 
 ## 📄 License
 

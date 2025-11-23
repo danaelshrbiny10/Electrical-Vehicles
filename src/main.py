@@ -1,4 +1,4 @@
-from fastapi import FastAPI,Request
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 
 from routing.simulate import router as simulate_router
@@ -62,12 +62,12 @@ def root():
     return {"message": f"{settings.APP_NAME} is running. See /docs for API."}
 
 
-# This will print validation errors to server logs
-@app.exception_handler(RequestValidationError)
-async def validation_exception_handler(request: Request, exc: RequestValidationError):
-    print("Validation error for request:", await request.body())
-    print(exc.errors())
-    return JSONResponse(
-        status_code=422,
-        content={"detail": exc.errors()}
-    )
+# # This will print validation errors to server logs
+# @app.exception_handler(RequestValidationError)
+# async def validation_exception_handler(request: Request, exc: RequestValidationError):
+#     print("Validation error for request:", await request.body())
+#     print(exc.errors())
+#     return JSONResponse(
+#         status_code=422,
+#         content={"detail": exc.errors()}
+#     )
