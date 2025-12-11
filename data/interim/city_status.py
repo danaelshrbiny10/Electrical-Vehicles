@@ -3,7 +3,7 @@ from rapidfuzz import process, fuzz
 from geopy.distance import geodesic
 
 # Load raw data
-df = pd.read_csv("/home/dana/code/Electrical-Vehicles/data analysis/data/raw/ev_data_egypt.csv")
+df = pd.read_csv("/home/dana/code/Electrical-Vehicles/data/raw/ev_data_egypt.csv")
 
 # Drop rows with missing coordinates
 df = df.dropna(subset=["Lat", "Lon"])
@@ -40,14 +40,19 @@ df = df[df["City"].str.lower() != "unknown"]
 
 # Normalize city names
 unique_cities = df["City"].dropna().unique().tolist()
+
 def normalize_city(name, choices, threshold=85):
     match, score, _ = process.extractOne(name, choices, scorer=fuzz.token_sort_ratio)
     return match if score >= threshold else name
+
 normalized_cities = {city: normalize_city(city, unique_cities) for city in unique_cities}
 df["City"] = df["City"].map(normalized_cities)
 
-# Fix Last_Updated column
-df["Last_Updated"] = pd.to_datetime(df["Last_Updated"], errors="coerce")  # invalid formats become NaT
+# Fix Last_Updated column (parse to datetime, invalid → NaT)
+df["Last_Updated"] = pd.to_datetime(df["Last_Updated"], errors="coerce")
+
+# Optional: normalized string version (clean and consistent)
+df["Last_Updated_Normalized"] = df["Last_Updated"].dt.strftime("%Y-%m-%d %H:%M:%S")
 
 # Initialize new columns
 df["Avg_Distance_km"] = 0.0
@@ -61,7 +66,7 @@ for city, city_df in df.groupby("City"):
     coords = [(lat, lon, name, idx) for lat, lon, name, idx in zip(city_df["Lat"], city_df["Lon"], city_df["Station_Name"], city_df.index)]
     
     for i, (lat1, lon1, name1, idx1) in enumerate(coords):
-        # Skip invalid coordinates just in case
+
         if pd.isna(lat1) or pd.isna(lon1):
             continue
         
@@ -69,7 +74,7 @@ for city, city_df in df.groupby("City"):
         nearest_station_name = None
         min_distance = None
 
-        # Distances to other stations in the same city
+        # Distances inside same city
         for j, (lat2, lon2, name2, idx2) in enumerate(coords):
             if i == j or pd.isna(lat2) or pd.isna(lon2):
                 continue
@@ -79,15 +84,19 @@ for city, city_df in df.groupby("City"):
                 min_distance = dist
                 nearest_station_name = name2
 
-        # If only one station in the city, compute distance to nearest station in other cities
+        # If only 1 station in city → find nearest in other cities
         if not distances:
-            other_stations = [(geodesic((lat1, lon1), (lat2, lon2)).km, name2)
-                              for lat2, lon2, name2, idx2 in all_coords if idx2 != idx1 and not pd.isna(lat2) and not pd.isna(lon2)]
+            other_stations = [
+                (geodesic((lat1, lon1), (lat2, lon2)).km, name2)
+                for lat2, lon2, name2, idx2 in all_coords
+                if idx2 != idx1 and not pd.isna(lat2) and not pd.isna(lon2)
+            ]
             if other_stations:
                 min_distance, nearest_station_name = min(other_stations, key=lambda x: x[0])
                 distances.append(min_distance)
 
         avg_distance = sum(distances)/len(distances) if distances else 0
+
         df.at[idx1, "Avg_Distance_km"] = round(avg_distance, 2)
         df.at[idx1, "To_Station"] = nearest_station_name
 
@@ -103,6 +112,6 @@ def congestion_status(dist):
 df["Status"] = df["Avg_Distance_km"].apply(congestion_status)
 
 # Save final CSV
-df.to_csv("/home/dana/code/Electrical-Vehicles/data analysis/data/processed/ev_data.csv", index=False)
+df.to_csv("/home/dana/code/Electrical-Vehicles/data/processed/ev_data.csv", index=False)
 
-print(df[["Station_Name", "Last_Updated", "Avg_Distance_km", "To_Station", "Status"]].head(10))
+print(df[["Station_Name", "Last_Updated", "Last_Updated_Normalized", "Avg_Distance_km", "To_Station", "Status"]].head(10))
