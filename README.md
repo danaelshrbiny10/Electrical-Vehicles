@@ -87,7 +87,7 @@ You can test the API endpoints using the provided Postman collection.
 - **🌐 Base URL**:  
   [`https://ev-ai-production.up.railway.app/`](https://ev-ai-production.up.railway.app/)
 
-- **📊 Dashboard**:
+- **📊 Dashboard**:  
   [`Looker Studio Analysis Dashboard`](https://lookerstudio.google.com/u/0/reporting/e13703c0-b4c4-4308-839b-5a130516dc62/page/HIqgF)
 
 ## 📄 License
