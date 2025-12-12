@@ -11,4 +11,4 @@ joblib==1.5.2
 RapidFuzz==3.14.3
 geopy==2.4.1
 httpx==0.28.1
-matplotlib==3.10.7
+matplotlib==3.10.8
